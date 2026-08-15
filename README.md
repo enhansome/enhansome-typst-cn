@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,444 | 🐛 1,267 | 🌐 Rust | 📅 2026-08-12 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,463 | 🐛 1,270 | 🌐 Rust | 📅 2026-08-14 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -48,7 +48,7 @@
 
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
-* [GitHub](https://github.com/typst/typst) ⭐ 55,444 | 🐛 1,267 | 🌐 Rust | 📅 2026-08-12
+* [GitHub](https://github.com/typst/typst) ⭐ 55,463 | 🐛 1,270 | 🌐 Rust | 📅 2026-08-14
 * [博客](https://typst.app/blog/)
 * 社交媒体: [Discord] [Instagram] [LinkedIn] [Twitter]
 
@@ -89,7 +89,7 @@
 
 ### 中国大学论文
 
-* [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 240 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
+* [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 239 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
 * [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) ⭐ 165 | 🐛 7 | 🌐 Typst | 📅 2026-05-07: 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
 * [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) ⭐ 113 | 🐛 0 | 🌐 Typst | 📅 2025-12-05: 上海大学本科毕业论文 typst 模板 (开发ing)
 * [bupt-typst](https://github.com/QQKdeGit/bupt-typst) ⭐ 97 | 🐛 0 | 🌐 Typst | 📅 2024-01-13: 北京邮电大学本科学士学位论文模板
@@ -140,7 +140,7 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 926 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 927 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 826 | 🐛 0 | 🌐 Typst | 📅 2026-08-08 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 723 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 191 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
@@ -149,7 +149,7 @@
 * [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 110 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
 * [vercanard](https://github.com/elegaanz/vercanard) ⭐ 109 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 94 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
-* [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 75 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
+* [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 74 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
 * [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) ⭐ 67 | 🐛 0 | 🌐 Typst | 📅 2024-04-02: 参考 `moderncv` 的简历模板 ，A CV template inspired by LaTeX's `moderncv`
 * [simplecv](https://github.com/LaurenzV/simplecv): 一份简单的简历模板,SimpleCV is a simple and elegant CV template written in Typst
 
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,816 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,819 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -194,7 +194,7 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 609 | 🐛 8 | 🌐 Typst | 📅 2026-07-21: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 610 | 🐛 8 | 🌐 Typst | 📅 2026-07-21: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 165 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
@@ -218,7 +218,7 @@
 
 ### 通用
 
-* [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) ⭐ 168 | 🐛 6 | 🌐 C | 📅 2026-07-28:TreeSitter 插件， A TreeSitter parser for the Typst File Format
+* [SeniorMars/tree-sitter-typst](https://github.com/SeniorMars/tree-sitter-typst) ⭐ 169 | 🐛 6 | 🌐 C | 📅 2026-07-28:TreeSitter 插件， A TreeSitter parser for the Typst File Format
 * [frozolotl/tree-sitter-typst](https://github.com/frozolotl/tree-sitter-typst) ⭐ 77 | 🐛 14 | 🌐 C | 📅 2024-01-29:TreeSitter 插件, A tree-sitter grammar with a focus on correctness.
 
 ### Emacs
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 533 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 534 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
