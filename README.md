@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,463 | 🐛 1,270 | 🌐 Rust | 📅 2026-08-14 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,474 | 🐛 1,272 | 🌐 Rust | 📅 2026-08-14 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -48,7 +48,7 @@
 
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
-* [GitHub](https://github.com/typst/typst) ⭐ 55,463 | 🐛 1,270 | 🌐 Rust | 📅 2026-08-14
+* [GitHub](https://github.com/typst/typst) ⭐ 55,474 | 🐛 1,272 | 🌐 Rust | 📅 2026-08-14
 * [博客](https://typst.app/blog/)
 * 社交媒体: [Discord] [Instagram] [LinkedIn] [Twitter]
 
@@ -142,12 +142,12 @@
 
 * [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 927 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 826 | 🐛 0 | 🌐 Typst | 📅 2026-08-08 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
-* [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 723 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
+* [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 724 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 191 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 150 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
 * [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 141 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
 * [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 110 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
-* [vercanard](https://github.com/elegaanz/vercanard) ⭐ 109 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
+* [vercanard](https://github.com/elegaanz/vercanard) ⭐ 110 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 94 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 * [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 74 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
 * [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) ⭐ 67 | 🐛 0 | 🌐 Typst | 📅 2024-04-02: 参考 `moderncv` 的简历模板 ，A CV template inspired by LaTeX's `moderncv`
@@ -159,20 +159,20 @@
 
 ### 演示文稿
 
-* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,596 | 🐛 98 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
+* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,595 | 🐛 98 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
 
 ## 库和工具类
 
 ### 格式 工具
 
-* [typst-tablex](https://github.com/PgBiel/typst-tablex) ⭐ 412 | 🐛 32 | 🌐 Typst | 📅 2024-10-25: 表格组件, More powerful and customizable tables in Typst.
+* [typst-tablex](https://github.com/PgBiel/typst-tablex) ⭐ 413 | 🐛 32 | 🌐 Typst | 📅 2024-10-25: 表格组件, More powerful and customizable tables in Typst.
 * [typst-index](https://github.com/RolfBremer/typst-index) ⭐ 83 | 🐛 10 | 🌐 Typst | 📅 2026-03-27: 创建索引的工具库,  Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.
 * [typst-diagbox](https://github.com/PgBiel/typst-diagbox) ⭐ 34 | 🐛 1 | 🌐 Typst | 📅 2024-09-26: 对角线分割符,A library for diagonal line dividers in Typst tables
 * [typst-ansi\_render](https://github.com/8LWXpg/typst-ansi_render) ⭐ 28 | 🐛 0 | 🌐 Typst | 📅 2026-07-18: ANSI 转义序列渲染,ANSI Escape Sequence Renderer
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,819 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,821 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -201,12 +201,12 @@
 
 * [typst-algorithms](https://github.com/platformer/typst-algorithms) ⭐ 184 | 🐛 16 | 🌐 Typst | 📅 2025-03-07: 用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers.
 * [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) ⭐ 113 | 🐛 1 | 🌐 Typst | 📅 2026-07-08: 时刻表模板 ,A typst template for timetables
-* [typst-truthtable](https://github.com/PgBiel/typst-truthtable) ⭐ 14 | 🐛 1 | 📅 2023-04-12: 生成真值表的库 , A library for generating truth tables
+* [typst-truthtable](https://github.com/PgBiel/typst-truthtable) ⭐ 15 | 🐛 1 | 📅 2023-04-12: 生成真值表的库 , A library for generating truth tables
 * [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) ⭐ 10 | 🐛 2 | 📅 2023-03-30: raytracer in typst
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,195 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-03: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,196 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-03: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 342 | 🐛 9 | 🌐 Rust | 📅 2026-08-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.

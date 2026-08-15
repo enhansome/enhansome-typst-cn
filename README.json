@@ -533,7 +533,7 @@
             "last_commit": "2025-04-06T21:42:07Z",
             "owner": "skyzh",
             "repo": "chicv",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -603,7 +603,7 @@
             "last_commit": "2025-04-08T14:12:26Z",
             "owner": "elegaanz",
             "repo": "vercanard",
-            "stars": 109
+            "stars": 110
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2024-10-25T19:48:51Z",
             "owner": "PgBiel",
             "repo": "typst-tablex",
-            "stars": 412
+            "stars": 413
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-28T09:04:45Z",
             "owner": "cetz-package",
             "repo": "cetz",
-            "stars": 1819
+            "stars": 1821
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2023-04-12T01:28:28Z",
             "owner": "PgBiel",
             "repo": "typst-truthtable",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1195
+            "stars": 1196
           }
         },
         {
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:01:17.178Z",
+    "last_updated": "2026-08-15T23:57:59.481Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
     "enhanced_repository": "enhansome/enhansome-typst-cn",
