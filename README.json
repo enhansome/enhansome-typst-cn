@@ -519,7 +519,7 @@
             "last_commit": "2026-08-08T15:37:33Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-07-28T09:04:45Z",
             "owner": "cetz-package",
             "repo": "cetz",
-            "stars": 1821
+            "stars": 1822
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2026-07-21T03:07:02Z",
             "owner": "Leedehai",
             "repo": "typst-physics",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1196
+            "stars": 1197
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-01T11:53:05Z",
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 342
+            "stars": 344
           }
         },
         {
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:57:59.481Z",
+    "last_updated": "2026-08-16T23:57:53.310Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
     "enhanced_repository": "enhansome/enhansome-typst-cn",
