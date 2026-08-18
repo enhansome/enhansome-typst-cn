@@ -505,7 +505,7 @@
             "last_commit": "2025-03-18T12:06:22Z",
             "owner": "OrangeX4",
             "repo": "Chinese-Resume-in-Typst",
-            "stars": 927
+            "stars": 928
           }
         },
         {
@@ -516,10 +516,10 @@
           "repo_info": {
             "archived": false,
             "language": "Typst",
-            "last_commit": "2026-08-08T15:37:33Z",
+            "last_commit": "2026-08-17T03:25:56Z",
             "owner": "yunanwg",
             "repo": "brilliant-CV",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2026-07-21T03:07:02Z",
             "owner": "Leedehai",
             "repo": "typst-physics",
-            "stars": 611
+            "stars": 612
           }
         },
         {
@@ -1006,7 +1006,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1197
+            "stars": 1198
           }
         },
         {
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:57:53.310Z",
+    "last_updated": "2026-08-18T00:00:04.336Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
     "enhanced_repository": "enhansome/enhansome-typst-cn",
