@@ -1,999 +1,1061 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "文档和教程"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-fmt",
+              "description": "typ 文件格式化工具，An in development Typst formatter (PR welcomed)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 618841320,
+                "language": "Rust",
+                "last_commit": "2024-06-08T08:38:55Z",
+                "owner": "astrale-sharp",
+                "repo": "typstfmt",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-live",
+              "description": "基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619181106,
+                "language": "Rust",
+                "last_commit": "2026-02-23T18:24:12Z",
+                "owner": "ItsEthra",
+                "repo": "typst-live",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-bot",
+              "description": "discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617360764,
+                "language": "Rust",
+                "last_commit": "2026-08-13T18:49:15Z",
+                "owner": "mattfbacon",
+                "repo": "typst-bot",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-pandoc",
+              "description": "Pandoc 集成 ，Typst custom reader and writer for Pandoc",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 605313386,
+                "language": "Lua",
+                "last_commit": "2023-08-08T12:16:25Z",
+                "owner": "lvignoli",
+                "repo": "typst-pandoc",
+                "stars": 48
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "工具"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typster",
+              "description": "Tauri 编写的 typst 阅读和编辑器,typst reader and editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622997049,
+                "language": "Rust",
+                "last_commit": "2026-03-10T15:10:38Z",
+                "owner": "wflixu",
+                "repo": "typster",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drafts",
+              "description": "Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 449884993,
+                "language": "Rust",
+                "last_commit": "2023-09-30T21:36:44Z",
+                "owner": "limads",
+                "repo": "drafts",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "编辑器"
+        }
+      ],
       "title": "第三方工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "typst-fmt",
-          "description": "typ 文件格式化工具，An in development Typst formatter (PR welcomed)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-06-08T08:38:55Z",
-            "owner": "astrale-sharp",
-            "repo": "typstfmt",
-            "stars": 249
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HUST-typst-template",
+              "description": "用于华科毕业设计（本科）的 typst 模板。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621688355,
+                "language": "Typst",
+                "last_commit": "2025-06-16T14:12:45Z",
+                "owner": "werifu",
+                "repo": "HUST-typst-template",
+                "stars": 239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pkuthss-typst",
+              "description": "北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625319367,
+                "language": "Typst",
+                "last_commit": "2026-05-07T07:51:34Z",
+                "owner": "pku-typst",
+                "repo": "pkuthss-typst",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SHU-Bachelor-Thesis-Typst",
+              "description": "上海大学本科毕业论文 typst 模板 (开发ing)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625466779,
+                "language": "Typst",
+                "last_commit": "2025-12-05T08:29:19Z",
+                "owner": "shuosc",
+                "repo": "SHU-Bachelor-Thesis-Typst",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bupt-typst",
+              "description": "北京邮电大学本科学士学位论文模板",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620363033,
+                "language": "Typst",
+                "last_commit": "2024-01-13T09:19:20Z",
+                "owner": "QQKdeGit",
+                "repo": "bupt-typst",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sysu-thesis-typst",
+              "description": "中山大学学位论文 Typst 模板",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 629097116,
+                "language": "Typst",
+                "last_commit": "2024-09-27T06:17:47Z",
+                "owner": "howardlau1999",
+                "repo": "sysu-thesis-typst",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BUAA-typst",
+              "description": "北京航空航天大学学位论文模板",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629287641,
+                "language": "Typst",
+                "last_commit": "2023-11-20T08:49:43Z",
+                "owner": "cherichy",
+                "repo": "BUAA-typst",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zjut-report-typst",
+              "description": "浙江工业大学一些实验报告的 Typst 模板, Some report templates of Zhejiang University of Technology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629078097,
+                "language": "Typst",
+                "last_commit": "2023-12-13T14:54:20Z",
+                "owner": "zjutjh",
+                "repo": "zjut-report-typst",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HIT-Thesis-Typst",
+              "description": "适用于哈尔滨工业大学学位论文的 Typst 模板",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818178789,
+                "language": "Typst",
+                "last_commit": "2025-03-08T16:29:56Z",
+                "owner": "chosertech",
+                "repo": "HIT-Thesis-Typst",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CQUPTypst",
+              "description": "一个 Typest 模板，但是大专",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624913470,
+                "language": "Typst",
+                "last_commit": "2024-03-03T02:16:01Z",
+                "owner": "jerrita",
+                "repo": "CQUPTypst",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZJGSU-typst-template",
+              "description": "浙江工商大学毕业设计（本科）的 typst 模板。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630098440,
+                "language": "TeX",
+                "last_commit": "2023-04-30T15:27:01Z",
+                "owner": "jujimeizuo",
+                "repo": "ZJSU-typst-template",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "中国大学论文"
         },
         {
-          "node_type": "item",
-          "title": "typst-live",
-          "description": "基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-23T18:24:12Z",
-            "owner": "ItsEthra",
-            "repo": "typst-live",
-            "stars": 137
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SimplePaper",
+              "description": "SimplePaper 是 Typst 的模版，用于生成简单的论文。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622163364,
+                "language": "Typst",
+                "last_commit": "2025-04-16T02:39:53Z",
+                "owner": "jinhao-huang",
+                "repo": "SimplePaper",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-typst-thesis",
+              "description": "编写简单论文的模板，A template useful for writing simple thesis in Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621197356,
+                "language": "Typst",
+                "last_commit": "2025-04-11T18:24:08Z",
+                "owner": "zagoli",
+                "repo": "simple-typst-thesis",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-typst-thesis",
+              "description": "简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621197356,
+                "language": "Typst",
+                "last_commit": "2025-04-11T18:24:08Z",
+                "owner": "zagoli",
+                "repo": "simple-typst-thesis",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ieee-typst-template",
+              "description": "IEEE 论文的模板，A template to write IEEE Papers in Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618205219,
+                "language": "TeX",
+                "last_commit": "2023-09-14T12:25:07Z",
+                "owner": "bsp0109",
+                "repo": "ieee-typst-template",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-apa7ish",
+              "description": "APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620462352,
+                "language": "Typst",
+                "last_commit": "2025-11-20T16:11:41Z",
+                "owner": "mrwunderbar666",
+                "repo": "typst-apa7ish",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-templates",
+              "description": "个人编写的模板，My typst templates",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617861847,
+                "language": "Typst",
+                "last_commit": "2025-10-21T03:01:17Z",
+                "owner": "haxibami",
+                "repo": "haxipst",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typstry",
+              "description": "个人编写的模板，A Tapestry of Typst Templates & Examples",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617233293,
+                "language": "TeX",
+                "last_commit": "2023-04-28T09:15:44Z",
+                "owner": "qjcg",
+                "repo": "typstry",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "writable-gm-screen-inserts",
+              "description": "类似游戏 cheat sheet, Writable Game Master Screen Inserts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617692414,
+                "language": "Nix",
+                "last_commit": "2023-03-22T23:53:37Z",
+                "owner": "LLBlumire",
+                "repo": "writable-gm-screen-inserts",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tyspt-mla9-template",
+              "description": "MLA 第九版模板，An MLA 9th edition template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 745852848,
+                "language": null,
+                "last_commit": "2024-01-20T10:48:10Z",
+                "owner": "wychwitch",
+                "repo": "tyspt-mla9-template",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "论文"
         },
         {
-          "node_type": "item",
-          "title": "typst-bot",
-          "description": "discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-13T18:49:15Z",
-            "owner": "mattfbacon",
-            "repo": "typst-bot",
-            "stars": 108
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-notebook",
+              "description": "简单的笔记模板 ,A simple template for taking notes in Typst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622235305,
+                "language": "Typst",
+                "last_commit": "2025-09-10T11:26:38Z",
+                "owner": "Fr4nk1inCs",
+                "repo": "tyniverse",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vex-typst-notebook",
+              "description": "Vex 机器人比赛工程笔记模板 ,This repository contains an open source VEX Robotics notebook template for use with the Typst note-taking app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619465705,
+                "language": null,
+                "last_commit": "2023-04-17T19:37:18Z",
+                "owner": "frosty884",
+                "repo": "vex-typst-notebook",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "笔记"
         },
         {
-          "node_type": "item",
-          "title": "typst-pandoc",
-          "description": "Pandoc 集成 ，Typst custom reader and writer for Pandoc",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Lua",
-            "last_commit": "2023-08-08T12:16:25Z",
-            "owner": "lvignoli",
-            "repo": "typst-pandoc",
-            "stars": 48
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-assignment-template",
+              "description": "作业模板,Yet another simple assignment template with a cover and several useful math symbols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623598085,
+                "language": "Typst",
+                "last_commit": "2025-03-24T15:49:25Z",
+                "owner": "gRox167",
+                "repo": "typst-assignment-template",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "assignment-template",
+              "description": "简单的作业模板,A simple assignment template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618911918,
+                "language": null,
+                "last_commit": "2023-03-28T13:04:42Z",
+                "owner": "AntoniosBarotsis",
+                "repo": "typst-assignment-template",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-homework-template",
+              "description": "作业模板,A simple homework template inspired by the LaTeX homework template by Adam Blank",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619495348,
+                "language": null,
+                "last_commit": "2023-04-05T06:07:17Z",
+                "owner": "OriginCode",
+                "repo": "typst-homework-template",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-assignment-template",
+              "description": "作业模板,Yet another simple assignment template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619870090,
+                "language": null,
+                "last_commit": "2023-03-27T16:12:11Z",
+                "owner": "astrale-sharp",
+                "repo": "typst-assignement-template",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "任务 工作 作业"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chinese-Resume-in-Typst",
+              "description": "使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640158809,
+                "language": "Typst",
+                "last_commit": "2025-03-18T12:06:22Z",
+                "owner": "OrangeX4",
+                "repo": "Chinese-Resume-in-Typst",
+                "stars": 930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesomeCV-Typst",
+              "description": "一份参考 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX project, but with multilingual support and more",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634051351,
+                "language": "Typst",
+                "last_commit": "2026-08-17T03:25:56Z",
+                "owner": "yunanwg",
+                "repo": "brilliant-CV",
+                "stars": 829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-cv-template",
+              "description": "好像是模板作者自己的简历,Chi CV Template (For Typst)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618708946,
+                "language": "Typst",
+                "last_commit": "2025-04-06T21:42:07Z",
+                "owner": "skyzh",
+                "repo": "chicv",
+                "stars": 725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alta-typst",
+              "description": "一份简历模板，参考 ，A simple Typst CV template, inspired by AltaCV by LianTze Lim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594489586,
+                "language": "HTML",
+                "last_commit": "2026-08-02T20:20:32Z",
+                "owner": "GeorgeHoneywood",
+                "repo": "alta-typst",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "resume.typ",
+              "description": "简历模板,Simple and ergonimic template to generate resume and CV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342495795,
+                "language": "Typst",
+                "last_commit": "2025-07-15T12:29:52Z",
+                "owner": "wusyong",
+                "repo": "resume.typ",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-resume-template",
+              "description": "一份简历模板，Aesthetic style inspired by the Awesome-CV project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618663039,
+                "language": "Typst",
+                "last_commit": "2024-03-18T22:52:47Z",
+                "owner": "bamboovir",
+                "repo": "typst-resume-template",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "attractive-typst-resume",
+              "description": "一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610642879,
+                "language": "Nix",
+                "last_commit": "2023-05-01T22:13:31Z",
+                "owner": "Harkunwar",
+                "repo": "attractive-typst-resume",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vercanard",
+              "description": "一份彩色的简历模板,A colorful resume template for Typst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623655509,
+                "language": "Typst",
+                "last_commit": "2025-04-08T14:12:26Z",
+                "owner": "elegaanz",
+                "repo": "vercanard",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-cv-miku",
+              "description": "简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625630429,
+                "language": null,
+                "last_commit": "2023-04-09T19:03:23Z",
+                "owner": "ice-kylin",
+                "repo": "typst-cv-miku",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uniquecv-typst",
+              "description": "一个使用Typst编写的简历模板，基于uniquecv。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627309583,
+                "language": "Typst",
+                "last_commit": "2025-02-27T19:29:14Z",
+                "owner": "gaoachao",
+                "repo": "uniquecv-typst",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moderncv.typst",
+              "description": "参考 的简历模板 ，A CV template inspired by LaTeX's",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621492382,
+                "language": "Typst",
+                "last_commit": "2024-04-02T17:53:37Z",
+                "owner": "giovanniberti",
+                "repo": "moderncv.typst",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "简历"
         }
       ],
-      "title": "工具"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typster",
-          "description": "Tauri 编写的 typst 阅读和编辑器,typst reader and editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-10T15:10:38Z",
-            "owner": "wflixu",
-            "repo": "typster",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drafts",
-          "description": "Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-09-30T21:36:44Z",
-            "owner": "limads",
-            "repo": "drafts",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "编辑器"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "模板"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "HUST-typst-template",
-          "description": "用于华科毕业设计（本科）的 typst 模板。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-06-16T14:12:45Z",
-            "owner": "werifu",
-            "repo": "HUST-typst-template",
-            "stars": 239
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-tablex",
+              "description": "表格组件, More powerful and customizable tables in Typst.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620829084,
+                "language": "Typst",
+                "last_commit": "2024-10-25T19:48:51Z",
+                "owner": "PgBiel",
+                "repo": "typst-tablex",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-index",
+              "description": "创建索引的工具库, Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633999608,
+                "language": "Typst",
+                "last_commit": "2026-03-27T14:22:03Z",
+                "owner": "RolfBremer",
+                "repo": "in-dexter",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-diagbox",
+              "description": "对角线分割符,A library for diagonal line dividers in Typst tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619022512,
+                "language": "Typst",
+                "last_commit": "2024-09-26T12:20:52Z",
+                "owner": "PgBiel",
+                "repo": "typst-diagbox",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-ansi_render",
+              "description": "ANSI 转义序列渲染,ANSI Escape Sequence Renderer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645642253,
+                "language": "Typst",
+                "last_commit": "2026-07-18T11:57:21Z",
+                "owner": "8LWXpg",
+                "repo": "typst-ansi-render",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "格式 工具"
         },
         {
-          "node_type": "item",
-          "title": "pkuthss-typst",
-          "description": "北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-05-07T07:51:34Z",
-            "owner": "pku-typst",
-            "repo": "pkuthss-typst",
-            "stars": 165
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-canvas",
+              "description": "Typst Canvas 库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628408767,
+                "language": "Typst",
+                "last_commit": "2026-07-28T09:04:45Z",
+                "owner": "cetz-package",
+                "repo": "cetz",
+                "stars": 1824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-boxes",
+              "description": "可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622978266,
+                "language": "Typst",
+                "last_commit": "2025-04-18T16:54:41Z",
+                "owner": "lkoehl",
+                "repo": "typst-boxes",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-plot",
+              "description": "绘图库,A library for plotting line charts",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 619800696,
+                "language": "Shell",
+                "last_commit": "2023-07-27T03:17:28Z",
+                "owner": "johannes-wolf",
+                "repo": "typst-plot",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-palette",
+              "description": "调色板工具包,A package of color palettes for Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621802911,
+                "language": "Typst",
+                "last_commit": "2025-04-27T14:35:10Z",
+                "owner": "kaarmu",
+                "repo": "splash",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-color-emoji",
+              "description": "emoji 库， A simple library for drawing color emoji for Typst. Drawing using twemoji and openmoji open-source emoji libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 640797762,
+                "language": "Typst",
+                "last_commit": "2024-01-27T12:34:31Z",
+                "owner": "silent-dxx",
+                "repo": "typst-color-emoji",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "图形 色彩"
         },
         {
-          "node_type": "item",
-          "title": "SHU-Bachelor-Thesis-Typst",
-          "description": "上海大学本科毕业论文 typst 模板 (开发ing)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-12-05T08:29:19Z",
-            "owner": "shuosc",
-            "repo": "SHU-Bachelor-Thesis-Typst",
-            "stars": 114
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "notes.typ",
+              "description": "脚注，尾注,Footnotes, endnotes, notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625851249,
+                "language": "Typst",
+                "last_commit": "2026-01-26T14:21:58Z",
+                "owner": "tudborg",
+                "repo": "notes.typ",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-ipa",
+              "description": "ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618085775,
+                "language": "Typst",
+                "last_commit": "2026-07-07T17:12:37Z",
+                "owner": "imatpot",
+                "repo": "typst-ascii-ipa",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "语言 文本"
         },
         {
-          "node_type": "item",
-          "title": "bupt-typst",
-          "description": "北京邮电大学本科学士学位论文模板",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-01-13T09:19:20Z",
-            "owner": "QQKdeGit",
-            "repo": "bupt-typst",
-            "stars": 97
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-theorems",
+              "description": "一个辅助编号的库,A library for creating numbered theorem environments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620338585,
+                "language": "Typst",
+                "last_commit": "2025-06-17T14:09:38Z",
+                "owner": "sahasatvik",
+                "repo": "typst-theorems",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-undergradmath",
+              "description": "Typst 移植,A Typst port of undergradmath",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617812417,
+                "language": "Typst",
+                "last_commit": "2026-04-30T03:24:58Z",
+                "owner": "johanvx",
+                "repo": "typst-undergradmath",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-undergradmath-zh",
+              "description": "Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645155446,
+                "language": "Typst",
+                "last_commit": "2023-12-02T02:57:41Z",
+                "owner": "brynne8",
+                "repo": "typst-undergradmath-zh",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Formal-Methods-Typst",
+              "description": "用于书写形式化中数理逻辑证明题",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621621319,
+                "language": null,
+                "last_commit": "2023-04-21T20:44:00Z",
+                "owner": "txtxj",
+                "repo": "Formal-Methods-Typst",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "数学"
         },
         {
-          "node_type": "item",
-          "title": "sysu-thesis-typst",
-          "description": "中山大学学位论文 Typst 模板",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Typst",
-            "last_commit": "2024-09-27T06:17:47Z",
-            "owner": "howardlau1999",
-            "repo": "sysu-thesis-typst",
-            "stars": 56
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-physics",
+              "description": "物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618919303,
+                "language": "Typst",
+                "last_commit": "2026-07-21T03:07:02Z",
+                "owner": "Leedehai",
+                "repo": "typst-physics",
+                "stars": 612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "circuitypst",
+              "description": "移植 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630675121,
+                "language": "Typst",
+                "last_commit": "2024-04-03T22:52:00Z",
+                "owner": "fenjalien",
+                "repo": "cirCeTZ",
+                "stars": 165
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "物理 化学 电学"
         },
         {
-          "node_type": "item",
-          "title": "BUAA-typst",
-          "description": "北京航空航天大学学位论文模板",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2023-11-20T08:49:43Z",
-            "owner": "cherichy",
-            "repo": "BUAA-typst",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zjut-report-typst",
-          "description": "浙江工业大学一些实验报告的 Typst 模板, Some report templates of Zhejiang University of Technology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2023-12-13T14:54:20Z",
-            "owner": "zjutjh",
-            "repo": "zjut-report-typst",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HIT-Thesis-Typst",
-          "description": "适用于哈尔滨工业大学学位论文的 Typst 模板",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-03-08T16:29:56Z",
-            "owner": "chosertech",
-            "repo": "HIT-Thesis-Typst",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CQUPTypst",
-          "description": "一个 Typest 模板，但是大专",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-03-03T02:16:01Z",
-            "owner": "jerrita",
-            "repo": "CQUPTypst",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZJGSU-typst-template",
-          "description": "浙江工商大学毕业设计（本科）的 typst 模板。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-04-30T15:27:01Z",
-            "owner": "jujimeizuo",
-            "repo": "ZJSU-typst-template",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-algorithms",
+              "description": "用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625715378,
+                "language": "Typst",
+                "last_commit": "2025-03-07T20:20:36Z",
+                "owner": "platformer",
+                "repo": "typst-algorithms",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-timetable",
+              "description": "时刻表模板 ,A typst template for timetables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 632191054,
+                "language": "Typst",
+                "last_commit": "2026-07-08T16:21:31Z",
+                "owner": "ludwig-austermann",
+                "repo": "typst-timetable",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-truthtable",
+              "description": "生成真值表的库 , A library for generating truth tables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620520649,
+                "language": null,
+                "last_commit": "2023-04-12T01:28:28Z",
+                "owner": "PgBiel",
+                "repo": "typst-truthtable",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst-raytracer",
+              "description": "raytracer in typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619084661,
+                "language": null,
+                "last_commit": "2023-03-30T20:41:55Z",
+                "owner": "SeniorMars",
+                "repo": "typst-raytracer",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "杂项"
         }
       ],
-      "title": "中国大学论文"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SimplePaper",
-          "description": "SimplePaper 是 Typst 的模版，用于生成简单的论文。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-16T02:39:53Z",
-            "owner": "jinhao-huang",
-            "repo": "SimplePaper",
-            "stars": 185
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simple-typst-thesis",
-          "description": "编写简单论文的模板，A template useful for writing simple thesis in Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-11T18:24:08Z",
-            "owner": "zagoli",
-            "repo": "simple-typst-thesis",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simple-typst-thesis",
-          "description": "简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-11T18:24:08Z",
-            "owner": "zagoli",
-            "repo": "simple-typst-thesis",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ieee-typst-template",
-          "description": "IEEE 论文的模板，A template to write IEEE Papers in Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-09-14T12:25:07Z",
-            "owner": "bsp0109",
-            "repo": "ieee-typst-template",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-apa7ish",
-          "description": "APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-11-20T16:11:41Z",
-            "owner": "mrwunderbar666",
-            "repo": "typst-apa7ish",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-templates",
-          "description": "个人编写的模板，My typst templates",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-10-21T03:01:17Z",
-            "owner": "haxibami",
-            "repo": "haxipst",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typstry",
-          "description": "个人编写的模板，A Tapestry of Typst Templates & Examples",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-04-28T09:15:44Z",
-            "owner": "qjcg",
-            "repo": "typstry",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "writable-gm-screen-inserts",
-          "description": "类似游戏 cheat sheet, Writable Game Master Screen Inserts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2023-03-22T23:53:37Z",
-            "owner": "LLBlumire",
-            "repo": "writable-gm-screen-inserts",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tyspt-mla9-template",
-          "description": "MLA 第九版模板，An MLA 9th edition template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-20T10:48:10Z",
-            "owner": "wychwitch",
-            "repo": "tyspt-mla9-template",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-templates",
-          "description": "个人编写的模板，Templates for Typst",
-          "children": []
-        }
-      ],
-      "title": "论文"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-notebook",
-          "description": "简单的笔记模板 ,A simple template for taking notes in Typst.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-09-10T11:26:38Z",
-            "owner": "Fr4nk1inCs",
-            "repo": "tyniverse",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vex-typst-notebook",
-          "description": "Vex 机器人比赛工程笔记模板 ,This repository contains an open source VEX Robotics notebook template for use with the Typst note-taking app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-17T19:37:18Z",
-            "owner": "frosty884",
-            "repo": "vex-typst-notebook",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "笔记"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-assignment-template",
-          "description": "作业模板,Yet another simple assignment template with a cover and several useful math symbols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-03-24T15:49:25Z",
-            "owner": "gRox167",
-            "repo": "typst-assignment-template",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "assignment-template",
-          "description": "简单的作业模板,A simple assignment template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-28T13:04:42Z",
-            "owner": "AntoniosBarotsis",
-            "repo": "typst-assignment-template",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-homework-template",
-          "description": "作业模板,A simple homework template inspired by the LaTeX homework template by Adam Blank",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-05T06:07:17Z",
-            "owner": "OriginCode",
-            "repo": "typst-homework-template",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-assignment-template",
-          "description": "作业模板,Yet another simple assignment template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-27T16:12:11Z",
-            "owner": "astrale-sharp",
-            "repo": "typst-assignement-template",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "任务 工作 作业"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chinese-Resume-in-Typst",
-          "description": "使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-03-18T12:06:22Z",
-            "owner": "OrangeX4",
-            "repo": "Chinese-Resume-in-Typst",
-            "stars": 930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesomeCV-Typst",
-          "description": "一份参考 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX project, but with multilingual support and more",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-08-17T03:25:56Z",
-            "owner": "yunanwg",
-            "repo": "brilliant-CV",
-            "stars": 829
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-cv-template",
-          "description": "好像是模板作者自己的简历,Chi CV Template (For Typst)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-06T21:42:07Z",
-            "owner": "skyzh",
-            "repo": "chicv",
-            "stars": 724
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alta-typst",
-          "description": "一份简历模板，参考 ，A simple Typst CV template, inspired by AltaCV by LianTze Lim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-02T20:20:32Z",
-            "owner": "GeorgeHoneywood",
-            "repo": "alta-typst",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "resume.typ",
-          "description": "简历模板,Simple and ergonimic template to generate resume and CV",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-07-15T12:29:52Z",
-            "owner": "wusyong",
-            "repo": "resume.typ",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-resume-template",
-          "description": "一份简历模板，Aesthetic style inspired by the Awesome-CV project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-03-18T22:52:47Z",
-            "owner": "bamboovir",
-            "repo": "typst-resume-template",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "attractive-typst-resume",
-          "description": "一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nix",
-            "last_commit": "2023-05-01T22:13:31Z",
-            "owner": "Harkunwar",
-            "repo": "attractive-typst-resume",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vercanard",
-          "description": "一份彩色的简历模板,A colorful resume template for Typst.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-08T14:12:26Z",
-            "owner": "elegaanz",
-            "repo": "vercanard",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-cv-miku",
-          "description": "简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-09T19:03:23Z",
-            "owner": "ice-kylin",
-            "repo": "typst-cv-miku",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uniquecv-typst",
-          "description": "一个使用Typst编写的简历模板，基于uniquecv。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-02-27T19:29:14Z",
-            "owner": "gaoachao",
-            "repo": "uniquecv-typst",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moderncv.typst",
-          "description": "参考 的简历模板 ，A CV template inspired by LaTeX's",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-04-02T17:53:37Z",
-            "owner": "giovanniberti",
-            "repo": "moderncv.typst",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "simplecv",
-          "description": "一份简单的简历模板,SimpleCV is a simple and elegant CV template written in Typst",
-          "children": []
-        }
-      ],
-      "title": "简历"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "库和工具类"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-tablex",
-          "description": "表格组件, More powerful and customizable tables in Typst.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-10-25T19:48:51Z",
-            "owner": "PgBiel",
-            "repo": "typst-tablex",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-index",
-          "description": "创建索引的工具库, Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-03-27T14:22:03Z",
-            "owner": "RolfBremer",
-            "repo": "in-dexter",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-diagbox",
-          "description": "对角线分割符,A library for diagonal line dividers in Typst tables",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-09-26T12:20:52Z",
-            "owner": "PgBiel",
-            "repo": "typst-diagbox",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-ansi_render",
-          "description": "ANSI 转义序列渲染,ANSI Escape Sequence Renderer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-18T11:57:21Z",
-            "owner": "8LWXpg",
-            "repo": "typst-ansi-render",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "格式 工具"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-canvas",
-          "description": "Typst Canvas 库",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-28T09:04:45Z",
-            "owner": "cetz-package",
-            "repo": "cetz",
-            "stars": 1823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-boxes",
-          "description": "可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-18T16:54:41Z",
-            "owner": "lkoehl",
-            "repo": "typst-boxes",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-plot",
-          "description": "绘图库,A library for plotting line charts",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2023-07-27T03:17:28Z",
-            "owner": "johannes-wolf",
-            "repo": "typst-plot",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-palette",
-          "description": "调色板工具包,A package of color palettes for Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-04-27T14:35:10Z",
-            "owner": "kaarmu",
-            "repo": "splash",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-color-emoji",
-          "description": "emoji 库， A simple library for drawing color emoji for Typst. Drawing using twemoji and openmoji open-source emoji libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-01-27T12:34:31Z",
-            "owner": "silent-dxx",
-            "repo": "typst-color-emoji",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "图形 色彩"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "notes.typ",
-          "description": "脚注，尾注,Footnotes, endnotes, notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-01-26T14:21:58Z",
-            "owner": "tudborg",
-            "repo": "notes.typ",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-ipa",
-          "description": "ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-07T17:12:37Z",
-            "owner": "imatpot",
-            "repo": "typst-ascii-ipa",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "语言 文本"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-theorems",
-          "description": "一个辅助编号的库,A library for creating numbered theorem environments",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-06-17T14:09:38Z",
-            "owner": "sahasatvik",
-            "repo": "typst-theorems",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-undergradmath",
-          "description": "Typst 移植,A Typst port of undergradmath",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-04-30T03:24:58Z",
-            "owner": "johanvx",
-            "repo": "typst-undergradmath",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-undergradmath-zh",
-          "description": "Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2023-12-02T02:57:41Z",
-            "owner": "brynne8",
-            "repo": "typst-undergradmath-zh",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Formal-Methods-Typst",
-          "description": "用于书写形式化中数理逻辑证明题",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-21T20:44:00Z",
-            "owner": "txtxj",
-            "repo": "Formal-Methods-Typst",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "数学"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-physics",
-          "description": "物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-21T03:07:02Z",
-            "owner": "Leedehai",
-            "repo": "typst-physics",
-            "stars": 612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "circuitypst",
-          "description": "移植 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2024-04-03T22:52:00Z",
-            "owner": "fenjalien",
-            "repo": "cirCeTZ",
-            "stars": 165
-          }
-        }
-      ],
-      "title": "物理 化学 电学"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst-algorithms",
-          "description": "用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2025-03-07T20:20:36Z",
-            "owner": "platformer",
-            "repo": "typst-algorithms",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-timetable",
-          "description": "时刻表模板 ,A typst template for timetables",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Typst",
-            "last_commit": "2026-07-08T16:21:31Z",
-            "owner": "ludwig-austermann",
-            "repo": "typst-timetable",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-truthtable",
-          "description": "生成真值表的库 , A library for generating truth tables",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-12T01:28:28Z",
-            "owner": "PgBiel",
-            "repo": "typst-truthtable",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst-raytracer",
-          "description": "raytracer in typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-30T20:41:55Z",
-            "owner": "SeniorMars",
-            "repo": "typst-raytracer",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "杂项"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1002,6 +1064,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625434693,
             "language": "TypeScript",
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
@@ -1016,6 +1079,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 622595297,
             "language": "Rust",
             "last_commit": "2026-08-01T11:53:05Z",
             "owner": "messense",
@@ -1030,6 +1094,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 630043193,
             "language": "Typst",
             "last_commit": "2026-01-13T14:08:28Z",
             "owner": "lucifer1004",
@@ -1044,6 +1109,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625403956,
             "language": "Rust",
             "last_commit": "2024-05-19T22:52:22Z",
             "owner": "herlev",
@@ -1058,6 +1124,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 623614200,
             "language": "Rust",
             "last_commit": "2023-04-04T18:16:06Z",
             "owner": "mattfbacon",
@@ -1072,6 +1139,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 631653086,
             "language": "Rust",
             "last_commit": "2023-12-20T07:15:54Z",
             "owner": "dermesser",
@@ -1086,6 +1154,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 620121661,
             "language": "Lua",
             "last_commit": "2023-03-31T11:38:40Z",
             "owner": "star-hengxing",
@@ -1097,82 +1166,90 @@
       "title": "编程"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SeniorMars/tree-sitter-typst",
+              "description": "TreeSitter 插件， A TreeSitter parser for the Typst File Format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617254921,
+                "language": "C",
+                "last_commit": "2026-07-28T19:24:43Z",
+                "owner": "SeniorMars",
+                "repo": "tree-sitter-typst",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frozolotl/tree-sitter-typst",
+              "description": "TreeSitter 插件, A tree-sitter grammar with a focus on correctness.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621953342,
+                "language": "C",
+                "last_commit": "2024-01-29T12:57:45Z",
+                "owner": "frozolotl",
+                "repo": "tree-sitter-typst",
+                "stars": 77
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "通用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst.vim",
+              "description": "Vim 插件,Vim plugin for Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618406002,
+                "language": "Vim Script",
+                "last_commit": "2025-12-17T11:39:14Z",
+                "owner": "kaarmu",
+                "repo": "typst.vim",
+                "stars": 384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typst.nvim",
+              "description": "nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617227444,
+                "language": "Rust",
+                "last_commit": "2026-07-09T21:42:52Z",
+                "owner": "SeniorMars",
+                "repo": "typst.nvim",
+                "stars": 152
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vim"
+        }
+      ],
       "title": "编辑器集成插件"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SeniorMars/tree-sitter-typst",
-          "description": "TreeSitter 插件， A TreeSitter parser for the Typst File Format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-28T19:24:43Z",
-            "owner": "SeniorMars",
-            "repo": "tree-sitter-typst",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "frozolotl/tree-sitter-typst",
-          "description": "TreeSitter 插件, A tree-sitter grammar with a focus on correctness.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-01-29T12:57:45Z",
-            "owner": "frozolotl",
-            "repo": "tree-sitter-typst",
-            "stars": 77
-          }
-        }
-      ],
-      "title": "通用"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typst.vim",
-          "description": "Vim 插件,Vim plugin for Typst",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2025-12-17T11:39:14Z",
-            "owner": "kaarmu",
-            "repo": "typst.vim",
-            "stars": 384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typst.nvim",
-          "description": "nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-09T21:42:52Z",
-            "owner": "SeniorMars",
-            "repo": "typst.nvim",
-            "stars": 152
-          }
-        }
-      ],
-      "title": "Vim"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:59:36.328Z",
+    "last_updated": "2026-08-19T12:57:59.642Z",
     "original_repository": "typst-cn/awesome-typst-cn",
+    "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
     "enhanced_repository": "enhansome/enhansome-typst-cn",
     "enhanced_repository_description": null,
