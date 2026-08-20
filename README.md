@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,522 | 🐛 1,274 | 🌐 Rust | 📅 2026-08-17 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,529 | 🐛 1,276 | 🌐 Rust | 📅 2026-08-17 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -48,7 +48,7 @@
 
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
-* [GitHub](https://github.com/typst/typst) ⭐ 55,522 | 🐛 1,274 | 🌐 Rust | 📅 2026-08-17
+* [GitHub](https://github.com/typst/typst) ⭐ 55,529 | 🐛 1,276 | 🌐 Rust | 📅 2026-08-17
 * [博客](https://typst.app/blog/)
 * 社交媒体: [Discord] [Instagram] [LinkedIn] [Twitter]
 
@@ -85,7 +85,7 @@
 
 ### 官方
 
-* [typst/templates](https://github.com/typst/templates) ⭐ 418 | 🐛 22 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
+* [typst/templates](https://github.com/typst/templates) ⭐ 419 | 🐛 22 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
 ### 中国大学论文
 
@@ -207,7 +207,7 @@
 ## 编程
 
 * [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,199 | 🐛 53 | 🌐 TypeScript | 📅 2026-07-03: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
-* [typst-py](https://github.com/messense/typst-py) ⭐ 344 | 🐛 9 | 🌐 Rust | 📅 2026-08-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+* [typst-py](https://github.com/messense/typst-py) ⭐ 345 | 🐛 9 | 🌐 Rust | 📅 2026-08-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 * [typst-egui](https://github.com/mattfbacon/typst-egui) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2023-04-04: 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
