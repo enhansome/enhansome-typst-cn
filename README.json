@@ -530,7 +530,7 @@
                 "last_commit": "2025-03-18T12:06:22Z",
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 930
+                "stars": 931
               }
             },
             {
@@ -1069,7 +1069,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1199
+            "stars": 1200
           }
         },
         {
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:00:38.196Z",
+    "last_updated": "2026-08-21T00:00:57.337Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
