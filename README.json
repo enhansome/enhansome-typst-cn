@@ -344,7 +344,7 @@
                 "last_commit": "2025-11-20T16:11:41Z",
                 "owner": "mrwunderbar666",
                 "repo": "typst-apa7ish",
-                "stars": 28
+                "stars": 29
               }
             },
             {
@@ -635,7 +635,7 @@
                 "last_commit": "2025-04-08T14:12:26Z",
                 "owner": "elegaanz",
                 "repo": "vercanard",
-                "stars": 110
+                "stars": 109
               }
             },
             {
@@ -708,7 +708,7 @@
                 "last_commit": "2024-10-25T19:48:51Z",
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 413
+                "stars": 414
               }
             },
             {
@@ -909,7 +909,7 @@
                 "last_commit": "2026-04-30T03:24:58Z",
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
-                "stars": 150
+                "stars": 149
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2026-07-21T03:07:02Z",
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 612
+                "stars": 611
               }
             },
             {
@@ -1069,7 +1069,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1200
+            "stars": 1201
           }
         },
         {
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T00:01:07.359Z",
+    "last_updated": "2026-08-22T23:58:41.561Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
