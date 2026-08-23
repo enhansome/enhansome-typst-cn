@@ -84,7 +84,7 @@
                 "last_commit": "2026-03-10T15:10:38Z",
                 "owner": "wflixu",
                 "repo": "typster",
-                "stars": 63
+                "stars": 64
               }
             },
             {
@@ -530,7 +530,7 @@
                 "last_commit": "2025-03-18T12:06:22Z",
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 933
+                "stars": 936
               }
             },
             {
@@ -775,7 +775,7 @@
                 "last_commit": "2026-07-28T09:04:45Z",
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1824
+                "stars": 1825
               }
             },
             {
@@ -1247,7 +1247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:58:41.561Z",
+    "last_updated": "2026-08-23T23:58:16.296Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",

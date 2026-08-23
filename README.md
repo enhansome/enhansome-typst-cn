@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,589 | 🐛 1,281 | 🌐 Rust | 📅 2026-08-21 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,614 | 🐛 1,287 | 🌐 Rust | 📅 2026-08-21 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -48,7 +48,7 @@
 
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
-* [GitHub](https://github.com/typst/typst) ⭐ 55,589 | 🐛 1,281 | 🌐 Rust | 📅 2026-08-21
+* [GitHub](https://github.com/typst/typst) ⭐ 55,614 | 🐛 1,287 | 🌐 Rust | 📅 2026-08-21
 * [博客](https://typst.app/blog/)
 * 社交媒体: [Discord] [Instagram] [LinkedIn] [Twitter]
 
@@ -78,7 +78,7 @@
 
 ### 编辑器
 
-* [typster](https://github.com/wflixu/typster) ⭐ 63 | 🐛 4 | 🌐 Rust | 📅 2026-03-10: Tauri 编写的 typst 阅读和编辑器,typst reader and editor
+* [typster](https://github.com/wflixu/typster) ⭐ 64 | 🐛 4 | 🌐 Rust | 📅 2026-03-10: Tauri 编写的 typst 阅读和编辑器,typst reader and editor
 * [Drafts](https://github.com/limads/drafts) ⭐ 9 | 🐛 1 | 🌐 Rust | 📅 2023-09-30: Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
 
 ## 模板
@@ -140,7 +140,7 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 933 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 936 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 829 | 🐛 2 | 🌐 Typst | 📅 2026-08-17 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 725 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 191 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,824 | 🐛 77 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,825 | 🐛 77 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 535 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 536 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
