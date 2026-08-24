@@ -12,10 +12,10 @@
             "archived": false,
             "id": 210702427,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:39:06Z",
+            "last_commit": "2026-08-24T17:14:09Z",
             "owner": "typst",
             "repo": "typst",
-            "stars": 55636
+            "stars": 55655
           }
         }
       ],
@@ -623,7 +623,7 @@
                 "last_commit": "2025-03-18T12:06:22Z",
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 937
+                "stars": 939
               }
             },
             {
@@ -638,7 +638,7 @@
                 "last_commit": "2026-08-24T03:25:06Z",
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 829
+                "stars": 830
               }
             },
             {
@@ -1098,7 +1098,7 @@
                 "last_commit": "2026-07-21T03:07:02Z",
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 611
+                "stars": 612
               }
             },
             {
@@ -1494,7 +1494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:09.733Z",
+    "last_updated": "2026-08-24T23:59:54.353Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
