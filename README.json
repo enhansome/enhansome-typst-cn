@@ -4,6 +4,55 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210702427,
+            "language": "Rust",
+            "last_commit": "2026-08-24T12:39:06Z",
+            "owner": "typst",
+            "repo": "typst",
+            "stars": 55636
+          }
+        }
+      ],
+      "title": "官方项目链接"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Typst中文文档",
+              "description": "随便翻译的Typst中文文档",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623229965,
+                "language": "Typst",
+                "last_commit": "2023-11-28T12:35:00Z",
+                "owner": "Zuttergutao",
+                "repo": "Typstdocs-Zh-CN-",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "文档"
+        }
+      ],
+      "title": "文档和教程"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -113,6 +162,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst/templates",
+              "description": "官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619803457,
+                "language": "Typst",
+                "last_commit": "2026-03-20T11:03:54Z",
+                "owner": "typst",
+                "repo": "templates",
+                "stars": 418
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "官方"
+        },
         {
           "children": [
             {
@@ -416,6 +487,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "typst-din-5008-letter",
+              "description": "DIN 5008 标准的商务文稿模板, A template for DIN 5008 inspired typst letter. Furthermore, there is a envelope template.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623975274,
+                "language": "Typst",
+                "last_commit": "2023-09-18T14:20:50Z",
+                "owner": "ludwig-austermann",
+                "repo": "typst-din-5008-letter",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "信件"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "typst-notebook",
               "description": "简单的笔记模板 ,A simple template for taking notes in Typst.",
               "children": [],
@@ -530,7 +623,7 @@
                 "last_commit": "2025-03-18T12:06:22Z",
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 936
+                "stars": 937
               }
             },
             {
@@ -542,7 +635,7 @@
                 "archived": false,
                 "id": 634051351,
                 "language": "Typst",
-                "last_commit": "2026-08-17T03:25:56Z",
+                "last_commit": "2026-08-24T03:25:06Z",
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 829
@@ -687,6 +780,50 @@
           "description": null,
           "node_type": "group",
           "title": "简历"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-poster",
+              "description": "一份学术海报模板,An academic poster template",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622306120,
+                "language": null,
+                "last_commit": "2023-04-13T16:26:43Z",
+                "owner": "pncnmnp",
+                "repo": "typst-poster",
+                "stars": 155
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "学术海报"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-slides",
+              "description": "创建演示文稿的模板,A template for creating slides in Typst",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618532897,
+                "language": "Typst",
+                "last_commit": "2026-02-28T21:44:35Z",
+                "owner": "polylux-typ",
+                "repo": "polylux",
+                "stars": 1598
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "演示文稿"
         }
       ],
       "title": "模板"
@@ -1069,7 +1206,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1201
+            "stars": 1202
           }
         },
         {
@@ -1209,6 +1346,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "typst-mode.el",
+              "description": "Emacs 插件,An Emacs major mode for the markup-based typesetting system",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 617964329,
+                "language": "Emacs Lisp",
+                "last_commit": "2023-09-25T00:40:20Z",
+                "owner": "Ziqi-Yang",
+                "repo": "typst-mode.el",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emacs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-lsp",
+              "description": "typst lsp， rust 编写，A brand-new language server for Typst, plus a VS Code extension",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 617361544,
+                "language": "Rust",
+                "last_commit": "2024-11-05T06:22:11Z",
+                "owner": "nvarner",
+                "repo": "typst-lsp",
+                "stars": 1151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "语言服务 LSP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "obsidian-typst",
+              "description": "obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618440185,
+                "language": "TypeScript",
+                "last_commit": "2024-11-03T17:46:56Z",
+                "owner": "fenjalien",
+                "repo": "obsidian-typst",
+                "stars": 536
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Obsidian"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "typst.vim",
               "description": "Vim 插件,Vim plugin for Typst",
               "children": [],
@@ -1241,13 +1444,57 @@
           "description": null,
           "node_type": "group",
           "title": "Vim"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-preview-vscode",
+              "description": "VSCode Typst 预览插件, Preview your Typst files in vscode instantly",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 625576338,
+                "language": "Typst",
+                "last_commit": "2024-07-07T12:31:45Z",
+                "owner": "Enter-tainer",
+                "repo": "typst-preview",
+                "stars": 444
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VSCode"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typst-action",
+              "description": "Github Action 支持,Build Typst documents using GitHub actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620375886,
+                "language": "Python",
+                "last_commit": "2025-02-16T15:15:54Z",
+                "owner": "lvignoli",
+                "repo": "typst-action",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他"
         }
       ],
       "title": "编辑器集成插件"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:58:16.296Z",
+    "last_updated": "2026-08-24T14:20:09.733Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
