@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "typst/typst",
           "description": null,
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T17:14:09Z",
             "owner": "typst",
             "repo": "typst",
-            "stars": 55655
+            "stars": 55662
           }
         }
       ],
@@ -638,7 +638,7 @@
                 "last_commit": "2026-08-24T03:25:06Z",
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 830
+                "stars": 828
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2025-04-06T21:42:07Z",
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 725
+                "stars": 724
               }
             },
             {
@@ -683,7 +683,7 @@
                 "last_commit": "2025-07-15T12:29:52Z",
                 "owner": "wusyong",
                 "repo": "resume.typ",
-                "stars": 150
+                "stars": 149
               }
             },
             {
@@ -698,7 +698,7 @@
                 "last_commit": "2024-03-18T22:52:47Z",
                 "owner": "bamboovir",
                 "repo": "typst-resume-template",
-                "stars": 141
+                "stars": 140
               }
             },
             {
@@ -1494,7 +1494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:59:54.353Z",
+    "last_updated": "2026-08-25T06:14:10.884Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
