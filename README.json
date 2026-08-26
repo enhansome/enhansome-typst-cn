@@ -12,10 +12,10 @@
             "archived": false,
             "id": 210702427,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:14:09Z",
+            "last_commit": "2026-08-25T15:44:43Z",
             "owner": "typst",
             "repo": "typst",
-            "stars": 55662
+            "stars": 55675
           }
         }
       ],
@@ -623,7 +623,7 @@
                 "last_commit": "2025-03-18T12:06:22Z",
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 939
+                "stars": 940
               }
             },
             {
@@ -653,7 +653,7 @@
                 "last_commit": "2025-04-06T21:42:07Z",
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 724
+                "stars": 723
               }
             },
             {
@@ -743,7 +743,7 @@
                 "last_commit": "2023-04-09T19:03:23Z",
                 "owner": "ice-kylin",
                 "repo": "typst-cv-miku",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -1206,7 +1206,7 @@
             "last_commit": "2026-07-03T06:15:02Z",
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2026-08-01T11:53:05Z",
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -1319,7 +1319,7 @@
                 "last_commit": "2026-07-28T19:24:43Z",
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
-                "stars": 169
+                "stars": 170
               }
             },
             {
@@ -1494,7 +1494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:10.884Z",
+    "last_updated": "2026-08-26T00:00:33.406Z",
     "original_repository": "typst-cn/awesome-typst-cn",
     "original_repository_id": 623905200,
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
