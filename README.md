@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,687 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-26 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,688 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-26 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 55,687 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-26
+* [GitHub](https://github.com/typst/typst) ⭐ 55,688 | 🐛 1,280 | 🌐 Rust | 📅 2026-08-26
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -140,12 +140,12 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 940 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
-* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 828 | 🐛 3 | 🌐 Typst | 📅 2026-08-24 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
-* [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 723 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 941 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 830 | 🐛 3 | 🌐 Typst | 📅 2026-08-24 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
+* [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 724 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 191 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
-* [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 149 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
-* [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 140 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
+* [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 150 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
+* [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 141 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
 * [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 110 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
 * [vercanard](https://github.com/elegaanz/vercanard) ⭐ 109 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 95 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,825 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,826 | 🐛 76 | 🌐 Typst | 📅 2026-07-28: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
