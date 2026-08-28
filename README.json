@@ -12,11 +12,12 @@
             "archived": false,
             "id": 210702427,
             "language": "Rust",
-            "last_commit": "2026-08-26T16:26:00Z",
+            "last_commit": "2026-08-27T17:10:56Z",
             "owner": "typst",
             "repo": "typst",
-            "stars": 55688
-          }
+            "stars": 55699
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         }
       ],
       "title": "官方项目链接"
@@ -39,7 +40,8 @@
                 "owner": "Zuttergutao",
                 "repo": "Typstdocs-Zh-CN-",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -67,7 +69,8 @@
                 "owner": "astrale-sharp",
                 "repo": "typstfmt",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -82,7 +85,8 @@
                 "owner": "ItsEthra",
                 "repo": "typst-live",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -96,8 +100,9 @@
                 "last_commit": "2026-08-13T18:49:15Z",
                 "owner": "mattfbacon",
                 "repo": "typst-bot",
-                "stars": 108
-              }
+                "stars": 109
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -112,7 +117,8 @@
                 "owner": "lvignoli",
                 "repo": "typst-pandoc",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -134,7 +140,8 @@
                 "owner": "wflixu",
                 "repo": "typster",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -149,7 +156,8 @@
                 "owner": "limads",
                 "repo": "drafts",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -177,7 +185,8 @@
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 418
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -198,8 +207,9 @@
                 "last_commit": "2025-06-16T14:12:45Z",
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 239
-              }
+                "stars": 238
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -214,7 +224,8 @@
                 "owner": "pku-typst",
                 "repo": "pkuthss-typst",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -229,7 +240,8 @@
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -244,7 +256,8 @@
                 "owner": "QQKdeGit",
                 "repo": "bupt-typst",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -259,7 +272,8 @@
                 "owner": "howardlau1999",
                 "repo": "sysu-thesis-typst",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -274,7 +288,8 @@
                 "owner": "cherichy",
                 "repo": "BUAA-typst",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -289,7 +304,8 @@
                 "owner": "zjutjh",
                 "repo": "zjut-report-typst",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -304,7 +320,8 @@
                 "owner": "chosertech",
                 "repo": "HIT-Thesis-Typst",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -319,7 +336,8 @@
                 "owner": "jerrita",
                 "repo": "CQUPTypst",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -334,7 +352,8 @@
                 "owner": "jujimeizuo",
                 "repo": "ZJSU-typst-template",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -356,7 +375,8 @@
                 "owner": "jinhao-huang",
                 "repo": "SimplePaper",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -371,7 +391,8 @@
                 "owner": "zagoli",
                 "repo": "simple-typst-thesis",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -386,7 +407,8 @@
                 "owner": "zagoli",
                 "repo": "simple-typst-thesis",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -401,7 +423,8 @@
                 "owner": "bsp0109",
                 "repo": "ieee-typst-template",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -416,7 +439,8 @@
                 "owner": "mrwunderbar666",
                 "repo": "typst-apa7ish",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -431,7 +455,8 @@
                 "owner": "haxibami",
                 "repo": "haxipst",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -446,7 +471,8 @@
                 "owner": "qjcg",
                 "repo": "typstry",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -461,7 +487,8 @@
                 "owner": "LLBlumire",
                 "repo": "writable-gm-screen-inserts",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -476,7 +503,8 @@
                 "owner": "wychwitch",
                 "repo": "tyspt-mla9-template",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -498,7 +526,8 @@
                 "owner": "ludwig-austermann",
                 "repo": "typst-din-5008-letter",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -520,7 +549,8 @@
                 "owner": "Fr4nk1inCs",
                 "repo": "tyniverse",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -535,7 +565,8 @@
                 "owner": "frosty884",
                 "repo": "vex-typst-notebook",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -557,7 +588,8 @@
                 "owner": "gRox167",
                 "repo": "typst-assignment-template",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -572,7 +604,8 @@
                 "owner": "AntoniosBarotsis",
                 "repo": "typst-assignment-template",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -587,7 +620,8 @@
                 "owner": "OriginCode",
                 "repo": "typst-homework-template",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -602,7 +636,8 @@
                 "owner": "astrale-sharp",
                 "repo": "typst-assignement-template",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -624,7 +659,8 @@
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
                 "stars": 941
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -638,8 +674,9 @@
                 "last_commit": "2026-08-24T03:25:06Z",
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 830
-              }
+                "stars": 831
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -654,7 +691,8 @@
                 "owner": "skyzh",
                 "repo": "chicv",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -669,7 +707,8 @@
                 "owner": "GeorgeHoneywood",
                 "repo": "alta-typst",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -684,7 +723,8 @@
                 "owner": "wusyong",
                 "repo": "resume.typ",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -699,7 +739,8 @@
                 "owner": "bamboovir",
                 "repo": "typst-resume-template",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -714,7 +755,8 @@
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -729,7 +771,8 @@
                 "owner": "elegaanz",
                 "repo": "vercanard",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -744,7 +787,8 @@
                 "owner": "ice-kylin",
                 "repo": "typst-cv-miku",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -759,7 +803,8 @@
                 "owner": "gaoachao",
                 "repo": "uniquecv-typst",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -774,7 +819,8 @@
                 "owner": "giovanniberti",
                 "repo": "moderncv.typst",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -796,7 +842,8 @@
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -817,8 +864,9 @@
                 "last_commit": "2026-02-28T21:44:35Z",
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1598
-              }
+                "stars": 1599
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -846,7 +894,8 @@
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -861,7 +910,8 @@
                 "owner": "RolfBremer",
                 "repo": "in-dexter",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -876,7 +926,8 @@
                 "owner": "PgBiel",
                 "repo": "typst-diagbox",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -891,7 +942,8 @@
                 "owner": "8LWXpg",
                 "repo": "typst-ansi-render",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -909,11 +961,12 @@
                 "archived": false,
                 "id": 628408767,
                 "language": "Typst",
-                "last_commit": "2026-07-28T09:04:45Z",
+                "last_commit": "2026-08-28T04:05:57Z",
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1826
-              }
+                "stars": 1828
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -928,7 +981,8 @@
                 "owner": "lkoehl",
                 "repo": "typst-boxes",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -943,7 +997,8 @@
                 "owner": "johannes-wolf",
                 "repo": "typst-plot",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -958,7 +1013,8 @@
                 "owner": "kaarmu",
                 "repo": "splash",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1029,8 @@
                 "owner": "silent-dxx",
                 "repo": "typst-color-emoji",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -995,7 +1052,8 @@
                 "owner": "tudborg",
                 "repo": "notes.typ",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1010,7 +1068,8 @@
                 "owner": "imatpot",
                 "repo": "typst-ascii-ipa",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1032,7 +1091,8 @@
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1107,8 @@
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1123,8 @@
                 "owner": "brynne8",
                 "repo": "typst-undergradmath-zh",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1139,8 @@
                 "owner": "txtxj",
                 "repo": "Formal-Methods-Typst",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1099,7 +1162,8 @@
                 "owner": "Leedehai",
                 "repo": "typst-physics",
                 "stars": 612
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1114,7 +1178,8 @@
                 "owner": "fenjalien",
                 "repo": "cirCeTZ",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1136,7 +1201,8 @@
                 "owner": "platformer",
                 "repo": "typst-algorithms",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1217,8 @@
                 "owner": "ludwig-austermann",
                 "repo": "typst-timetable",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1233,8 @@
                 "owner": "PgBiel",
                 "repo": "typst-truthtable",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1249,8 @@
                 "owner": "SeniorMars",
                 "repo": "typst-raytracer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1207,7 +1276,8 @@
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1292,8 @@
             "owner": "messense",
             "repo": "typst-py",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1308,8 @@
             "owner": "lucifer1004",
             "repo": "leetcode.typ",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1324,8 @@
             "owner": "herlev",
             "repo": "inktyp",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1340,8 @@
             "owner": "mattfbacon",
             "repo": "typst-egui",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1356,8 @@
             "owner": "dermesser",
             "repo": "jupyter2typst",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1372,8 @@
             "owner": "star-hengxing",
             "repo": "typst-xmake",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:05:39.397Z"
         }
       ],
       "title": "编程"
@@ -1320,7 +1396,8 @@
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1335,7 +1412,8 @@
                 "owner": "frozolotl",
                 "repo": "tree-sitter-typst",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1357,7 +1435,8 @@
                 "owner": "Ziqi-Yang",
                 "repo": "typst-mode.el",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1379,7 +1458,8 @@
                 "owner": "nvarner",
                 "repo": "typst-lsp",
                 "stars": 1151
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1401,7 +1481,8 @@
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
                 "stars": 536
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1423,7 +1504,8 @@
                 "owner": "kaarmu",
                 "repo": "typst.vim",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             },
             {
               "node_type": "item",
@@ -1438,7 +1520,8 @@
                 "owner": "SeniorMars",
                 "repo": "typst.nvim",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1460,7 +1543,8 @@
                 "owner": "Enter-tainer",
                 "repo": "typst-preview",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1482,7 +1566,8 @@
                 "owner": "lvignoli",
                 "repo": "typst-action",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
             }
           ],
           "description": null,
@@ -1494,7 +1579,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:22.206Z",
+    "last_updated": "2026-08-28T07:05:39.397Z",
     "original_repository_info": {
       "archived": false,
       "id": 623905200,
