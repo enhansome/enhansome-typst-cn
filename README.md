@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,699 | 🐛 1,272 | 🌐 Rust | 📅 2026-08-27 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,717 | 🐛 1,275 | 🌐 Rust | 📅 2026-08-28 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 55,699 | 🐛 1,272 | 🌐 Rust | 📅 2026-08-27
+* [GitHub](https://github.com/typst/typst) ⭐ 55,717 | 🐛 1,275 | 🌐 Rust | 📅 2026-08-28
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -96,7 +96,7 @@
 * [sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst) ⚠️ Archived: 中山大学学位论文 Typst 模板
 * [BUAA-typst](https://github.com/cherichy/BUAA-typst) ⭐ 26 | 🐛 0 | 🌐 Typst | 📅 2023-11-20: 北京航空航天大学学位论文模板
 * [zjut-report-typst](https://github.com/zjutjh/zjut-report-typst) ⭐ 12 | 🐛 0 | 🌐 Typst | 📅 2023-12-13: 浙江工业大学一些实验报告的 Typst 模板, Some report templates of Zhejiang University of Technology.
-* [HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst) ⭐ 12 | 🐛 0 | 🌐 Typst | 📅 2025-03-08: 适用于哈尔滨工业大学学位论文的 Typst 模板
+* [HIT-Thesis-Typst](https://github.com/chosertech/HIT-Thesis-Typst) ⭐ 11 | 🐛 0 | 🌐 Typst | 📅 2025-03-08: 适用于哈尔滨工业大学学位论文的 Typst 模板
 * [CQUPTypst](https://github.com/jerrita/CQUPTypst) ⭐ 6 | 🐛 0 | 🌐 Typst | 📅 2024-03-03: 一个 Typest 模板，但是大专
 * [ZJGSU-typst-template](https://github.com/jujimeizuo/ZJGSU-typst-template) ⭐ 5 | 🐛 0 | 🌐 TeX | 📅 2023-04-30: 浙江工商大学毕业设计（本科）的 typst 模板。
 
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,828 | 🐛 74 | 🌐 Typst | 📅 2026-08-28: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,828 | 🐛 75 | 🌐 Typst | 📅 2026-08-28: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -206,7 +206,7 @@
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,204 | 🐛 54 | 🌐 TypeScript | 📅 2026-07-03: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,205 | 🐛 54 | 🌐 TypeScript | 📅 2026-07-03: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 347 | 🐛 9 | 🌐 Rust | 📅 2026-08-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
@@ -231,11 +231,11 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 536 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 535 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
-* [typst.vim](https://github.com/kaarmu/typst.vim) ⭐ 384 | 🐛 20 | 🌐 Vim Script | 📅 2025-12-17: Vim 插件,Vim plugin for Typst
+* [typst.vim](https://github.com/kaarmu/typst.vim) ⭐ 385 | 🐛 20 | 🌐 Vim Script | 📅 2025-12-17: Vim 插件,Vim plugin for Typst
 * [typst.nvim](https://github.com/SeniorMars/typst.nvim) ⭐ 152 | 🐛 2 | 🌐 Rust | 📅 2026-07-09: nvim 插件, WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim
 
 ### VSCode
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

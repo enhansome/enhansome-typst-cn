@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markup-based typesetting system that is powerful and easy to learn.",
+            "homepage": "https://typst.app",
             "id": 210702427,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:10:56Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T15:15:46Z",
+            "open_issues": 1275,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55699
+            "stars": 55717,
+            "topics": [
+              "compiler",
+              "markup",
+              "typesetting",
+              "typst"
+            ]
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         }
@@ -34,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "随便翻译的Typst中文文档",
+                "homepage": null,
                 "id": 623229965,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2023-11-28T12:35:00Z",
+                "open_issues": 0,
                 "owner": "Zuttergutao",
                 "repo": "Typstdocs-Zh-CN-",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -63,12 +78,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 618841320,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-08T08:38:55Z",
+                "open_issues": 33,
                 "owner": "astrale-sharp",
                 "repo": "typstfmt",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -79,12 +99,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hot reloading for your typst files",
+                "homepage": null,
                 "id": 619181106,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-23T18:24:12Z",
+                "open_issues": 9,
                 "owner": "ItsEthra",
                 "repo": "typst-live",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -95,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A discord bot to render Typst code",
+                "homepage": null,
                 "id": 617360764,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-13T18:49:15Z",
+                "open_issues": 4,
                 "owner": "mattfbacon",
                 "repo": "typst-bot",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -111,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Typst custom reader and writer for Pandoc",
+                "homepage": null,
                 "id": 605313386,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-08-08T12:16:25Z",
+                "open_issues": 1,
                 "owner": "lvignoli",
                 "repo": "typst-pandoc",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -134,12 +169,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a typst reader and editor",
+                "homepage": null,
                 "id": 622997049,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-03-10T15:10:38Z",
+                "open_issues": 4,
                 "owner": "wflixu",
                 "repo": "typster",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "desktop-app",
+                  "macos",
+                  "tauri",
+                  "typst",
+                  "typst-editor",
+                  "vue3"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -150,12 +197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An editor for Typst (WIP)",
+                "homepage": null,
                 "id": 449884993,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-30T21:36:44Z",
+                "open_issues": 1,
                 "owner": "limads",
                 "repo": "drafts",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -179,12 +231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Templates that are directly maintained by the Typst team.",
+                "homepage": null,
                 "id": 619803457,
                 "language": "Typst",
+                "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
+                "open_issues": 22,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 418
+                "stars": 418,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -202,12 +259,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "华科毕业论文（本科）的 typst 模板",
+                "homepage": null,
                 "id": 621688355,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-06-16T14:12:45Z",
+                "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "hust",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -218,12 +284,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typst template for dissertations in Peking University (PKU).",
+                "homepage": "https://pku-typst.github.io/pkuthss-typst/",
                 "id": 625319367,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-05-07T07:51:34Z",
+                "open_issues": 7,
                 "owner": "pku-typst",
                 "repo": "pkuthss-typst",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "thesis-template",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -234,12 +309,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "上海大学本科生毕业论文Typst模板",
+                "homepage": null,
                 "id": 625466779,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T08:29:19Z",
+                "open_issues": 0,
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -250,12 +332,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "北京邮电大学本科生毕设论文 Typst 模板。Typst template for dissertations in Beijing University of Posts and Telecommunications (BUPT). ",
+                "homepage": null,
                 "id": 620363033,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2024-01-13T09:19:20Z",
+                "open_issues": 0,
                 "owner": "QQKdeGit",
                 "repo": "bupt-typst",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "bachelor-thesis",
+                  "bupt",
+                  "template",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -266,12 +358,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "中山大学学位论文 Typst 模板",
+                "homepage": null,
                 "id": 629097116,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2024-09-27T06:17:47Z",
+                "open_issues": 0,
                 "owner": "howardlau1999",
                 "repo": "sysu-thesis-typst",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "sysu",
+                  "thesis",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -282,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typst template for dissertations in Beihang University (BUAA).",
+                "homepage": null,
                 "id": 629287641,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2023-11-20T08:49:43Z",
+                "open_issues": 0,
                 "owner": "cherichy",
                 "repo": "BUAA-typst",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -298,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "浙江工业大学一些实验报告的 Typst 模板",
+                "homepage": null,
                 "id": 629078097,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2023-12-13T14:54:20Z",
+                "open_issues": 0,
                 "owner": "zjutjh",
                 "repo": "zjut-report-typst",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -314,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "哈尔滨工业大学 Typst 论文模板 | 本仓库是 universal-hit-thesis 的镜像，为维护模板早期版本在 Typst Universe 上的链接而设置，请移步至 HITSZ OSA 的仓库",
+                "homepage": "https://typst.app/universe/package/universal-hit-thesis",
                 "id": 818178789,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-03-08T16:29:56Z",
+                "open_issues": 0,
                 "owner": "chosertech",
                 "repo": "HIT-Thesis-Typst",
-                "stars": 12
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -330,12 +447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typst template of CQUPT, following the requirement of the CS department",
+                "homepage": null,
                 "id": 624913470,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2024-03-03T02:16:01Z",
+                "open_issues": 0,
                 "owner": "jerrita",
                 "repo": "CQUPTypst",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -346,12 +468,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "浙江工商大学（本科）毕业论文typst模版",
+                "homepage": null,
                 "id": 630098440,
                 "language": "TeX",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-30T15:27:01Z",
+                "open_issues": 0,
                 "owner": "jujimeizuo",
                 "repo": "ZJSU-typst-template",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -369,12 +498,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个简单的 Typst 中文模板",
+                "homepage": null,
                 "id": 622163364,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-04-16T02:39:53Z",
+                "open_issues": 1,
                 "owner": "jinhao-huang",
                 "repo": "SimplePaper",
-                "stars": 185
+                "stars": 185,
+                "topics": [
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -385,12 +522,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template to use for a simple thesis written in Typst.",
+                "homepage": null,
                 "id": 621197356,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-11T18:24:08Z",
+                "open_issues": 1,
                 "owner": "zagoli",
                 "repo": "simple-typst-thesis",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "pdf",
+                  "thesis",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -401,12 +547,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template to use for a simple thesis written in Typst.",
+                "homepage": null,
                 "id": 621197356,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-11T18:24:08Z",
+                "open_issues": 1,
                 "owner": "zagoli",
                 "repo": "simple-typst-thesis",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "pdf",
+                  "thesis",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -417,12 +572,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template to write IEEE Papers in Typst",
+                "homepage": null,
                 "id": 618205219,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-09-14T12:25:07Z",
+                "open_issues": 4,
                 "owner": "bsp0109",
                 "repo": "ieee-typst-template",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -433,12 +595,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typst Template that (mostly) complies with APA7 Style (Work in Progress)",
+                "homepage": "https://typst.app/universe/package/apa7-ish",
                 "id": 620462352,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-11-20T16:11:41Z",
+                "open_issues": 1,
                 "owner": "mrwunderbar666",
                 "repo": "typst-apa7ish",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "apa7",
+                  "template",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -449,12 +620,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My typst templates & utilities (WIP)",
+                "homepage": null,
                 "id": 617861847,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2025-10-21T03:01:17Z",
+                "open_issues": 0,
                 "owner": "haxibami",
                 "repo": "haxipst",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "indent",
+                  "resume",
+                  "typst",
+                  "typst-package",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -465,12 +647,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tapestry of Typst Templates & Examples",
+                "homepage": null,
                 "id": 617233293,
                 "language": "TeX",
+                "license": "MIT",
                 "last_commit": "2023-04-28T09:15:44Z",
+                "open_issues": 0,
                 "owner": "qjcg",
                 "repo": "typstry",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "examples",
+                  "templates",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -481,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617692414,
                 "language": "Nix",
+                "license": null,
                 "last_commit": "2023-03-22T23:53:37Z",
+                "open_issues": 0,
                 "owner": "LLBlumire",
                 "repo": "writable-gm-screen-inserts",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -497,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A redirection repo",
+                "homepage": null,
                 "id": 745852848,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-01-20T10:48:10Z",
+                "open_issues": 0,
                 "owner": "wychwitch",
                 "repo": "tyspt-mla9-template",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -520,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A template for DIN 5008 inspired typst letter",
+                "homepage": null,
                 "id": 623975274,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2023-09-18T14:20:50Z",
+                "open_issues": 2,
                 "owner": "ludwig-austermann",
                 "repo": "typst-din-5008-letter",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -543,12 +749,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of templates for homeworks, cheatpapers and more.",
+                "homepage": null,
                 "id": 622235305,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-09-10T11:26:38Z",
+                "open_issues": 1,
                 "owner": "Fr4nk1inCs",
                 "repo": "tyniverse",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -559,12 +770,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source VEX Robotics notebook template for typst",
+                "homepage": null,
                 "id": 619465705,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-17T19:37:18Z",
+                "open_issues": 0,
                 "owner": "frosty884",
                 "repo": "vex-typst-notebook",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -582,12 +798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 623598085,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2025-03-24T15:49:25Z",
+                "open_issues": 0,
                 "owner": "gRox167",
                 "repo": "typst-assignment-template",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -598,12 +819,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple assignment template for Typst.",
+                "homepage": null,
                 "id": 618911918,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-28T13:04:42Z",
+                "open_issues": 0,
                 "owner": "AntoniosBarotsis",
                 "repo": "typst-assignment-template",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "assignment",
+                  "template",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -614,12 +844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Homework Template for Typst",
+                "homepage": null,
                 "id": 619495348,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-05T06:07:17Z",
+                "open_issues": 0,
                 "owner": "OriginCode",
                 "repo": "typst-homework-template",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -630,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 619870090,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-27T16:12:11Z",
+                "open_issues": 0,
                 "owner": "astrale-sharp",
                 "repo": "typst-assignement-template",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -653,12 +893,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片",
+                "homepage": "https://typst.app/project/rw1SLr0IIZZnCrkrsypRQF",
                 "id": 640158809,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2025-03-18T12:06:22Z",
+                "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 941
+                "stars": 941,
+                "topics": [
+                  "resume",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -669,12 +918,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💼 another CV template for your job application, yet powered by Typst and more",
+                "homepage": "https://typst.app/universe/package/brilliant-cv",
                 "id": 634051351,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T03:25:06Z",
+                "open_issues": 3,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 831
+                "stars": 831,
+                "topics": [
+                  "cv",
+                  "pdf",
+                  "prompt-injection",
+                  "resume",
+                  "resume-template",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -685,12 +947,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal and fully-customizable CV template for Typst.",
+                "homepage": "https://typst.app/universe/package/chicv",
                 "id": 618708946,
                 "language": "Typst",
+                "license": "CC0-1.0",
                 "last_commit": "2025-04-06T21:42:07Z",
+                "open_issues": 2,
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 724
+                "stars": 724,
+                "topics": [
+                  "template",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -701,12 +972,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Typst CV template, inspired by AltaCV by LianTze Lim.",
+                "homepage": null,
                 "id": 594489586,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-02T20:20:32Z",
+                "open_issues": 0,
                 "owner": "GeorgeHoneywood",
                 "repo": "alta-typst",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -717,12 +995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resume template for Typst. Mirror to https://typst.app/project/rVVa3y9vXemUKyvNKnabKV",
+                "homepage": null,
                 "id": 342495795,
                 "language": "Typst",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-07-15T12:29:52Z",
+                "open_issues": 0,
                 "owner": "wusyong",
                 "repo": "resume.typ",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -733,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "typst-resume-template",
+                "homepage": null,
                 "id": 618663039,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2024-03-18T22:52:47Z",
+                "open_issues": 0,
                 "owner": "bamboovir",
                 "repo": "typst-resume-template",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -749,12 +1037,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attractive Typst Resume Template",
+                "homepage": "https://typst.app/project/rLlknWbYc8XMaZc45BHlMl",
                 "id": 610642879,
                 "language": "Nix",
+                "license": "MIT",
                 "last_commit": "2023-05-01T22:13:31Z",
+                "open_issues": 0,
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "nix",
+                  "resume",
+                  "resume-template",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -765,12 +1063,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A colorful resume template for Typst",
+                "homepage": "https://typst.app/universe/package/vercanard",
                 "id": 623655509,
                 "language": "Typst",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-08T14:12:26Z",
+                "open_issues": 0,
                 "owner": "elegaanz",
                 "repo": "vercanard",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "cv",
+                  "cv-template",
+                  "resume",
+                  "resume-template",
+                  "template",
+                  "typst",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -781,12 +1092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).",
+                "homepage": "https://typst.app/project/rbxGsQC-tEkDq0mnNIuxkv",
                 "id": 625630429,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2023-04-09T19:03:23Z",
+                "open_issues": 0,
                 "owner": "ice-kylin",
                 "repo": "typst-cv-miku",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -797,12 +1113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple resume template written in Typst",
+                "homepage": null,
                 "id": 627309583,
                 "language": "Typst",
+                "license": null,
                 "last_commit": "2025-02-27T19:29:14Z",
+                "open_issues": 3,
                 "owner": "gaoachao",
                 "repo": "uniquecv-typst",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -813,12 +1134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typst template inspired by LaTeX moderncv",
+                "homepage": null,
                 "id": 621492382,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-02T17:53:37Z",
+                "open_issues": 0,
                 "owner": "giovanniberti",
                 "repo": "moderncv.typst",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -836,12 +1162,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An academic poster template for Typst",
+                "homepage": null,
                 "id": 622306120,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-13T16:26:43Z",
+                "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "poster-template",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -859,12 +1193,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for creating slides in Typst",
+                "homepage": "https://polylux.dev/book",
                 "id": 618532897,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-02-28T21:44:35Z",
+                "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1599
+                "stars": 1599,
+                "topics": [
+                  "presentation",
+                  "presentation-slides",
+                  "slides",
+                  "talk",
+                  "typst",
+                  "typst-package",
+                  "typst-template"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -888,12 +1235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "More powerful and customizable tables in Typst",
+                "homepage": null,
                 "id": 620829084,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-25T19:48:51Z",
+                "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 414
+                "stars": 414,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -904,12 +1256,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically create a handcrafted index in typst.",
+                "homepage": null,
                 "id": 633999608,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-27T14:22:03Z",
+                "open_issues": 10,
                 "owner": "RolfBremer",
                 "repo": "in-dexter",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -920,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for diagonal line dividers in Typst tables",
+                "homepage": null,
                 "id": 619022512,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-26T12:20:52Z",
+                "open_issues": 1,
                 "owner": "PgBiel",
                 "repo": "typst-diagbox",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -936,12 +1300,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "provides a simple way to render text with ANSI escape sequences in typst",
+                "homepage": null,
                 "id": 645642253,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-07-18T11:57:21Z",
+                "open_issues": 0,
                 "owner": "8LWXpg",
                 "repo": "typst-ansi-render",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "ansi-colors",
+                  "typst",
+                  "typst-package"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -959,12 +1332,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.",
+                "homepage": "https://cetz-package.github.io",
                 "id": 628408767,
                 "language": "Typst",
-                "last_commit": "2026-08-28T04:05:57Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T17:32:19Z",
+                "open_issues": 75,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1828
+                "stars": 1828,
+                "topics": [
+                  "cetz",
+                  "typst",
+                  "typst-canvas"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -975,12 +1357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 622978266,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-04-18T16:54:41Z",
+                "open_issues": 1,
                 "owner": "lkoehl",
                 "repo": "typst-boxes",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -991,12 +1378,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Typst Plotting Library",
+                "homepage": null,
                 "id": 619800696,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-27T03:17:28Z",
+                "open_issues": 0,
                 "owner": "johannes-wolf",
                 "repo": "typst-plot",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "plot",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1007,12 +1402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library of color palettes for Typst.",
+                "homepage": null,
                 "id": 621802911,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-04-27T14:35:10Z",
+                "open_issues": 2,
                 "owner": "kaarmu",
                 "repo": "splash",
-                "stars": 61
+                "stars": 61,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1023,12 +1423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw color emoji in Typst.",
+                "homepage": null,
                 "id": 640797762,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2024-01-27T12:34:31Z",
+                "open_issues": 0,
                 "owner": "silent-dxx",
                 "repo": "typst-color-emoji",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1046,12 +1451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Footnotes + Endnotes + Custom notes for Typst typesetting.",
+                "homepage": null,
                 "id": 625851249,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-26T14:21:58Z",
+                "open_issues": 0,
                 "owner": "tudborg",
                 "repo": "notes.typ",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1062,12 +1472,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔄 ASCII / IPA conversion for Typst",
+                "homepage": "https://typst.app/universe/package/ascii-ipa",
                 "id": 618085775,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-07-07T17:12:37Z",
+                "open_issues": 3,
                 "owner": "imatpot",
                 "repo": "typst-ascii-ipa",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "branner",
+                  "conlang",
+                  "cxs",
+                  "international-phonetic-alphabet",
+                  "ipa",
+                  "linguistics",
+                  "praat",
+                  "sil",
+                  "typst",
+                  "x-sampa",
+                  "xsampa"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1085,12 +1512,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of numbered theorem environments in typst",
+                "homepage": null,
                 "id": 620338585,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-06-17T14:09:38Z",
+                "open_issues": 26,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1101,12 +1535,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Typst port of undergradmath",
+                "homepage": null,
                 "id": 617812417,
                 "language": "Typst",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-04-30T03:24:58Z",
+                "open_issues": 3,
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1117,12 +1556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Typst port of undergradmath (in Chinese)",
+                "homepage": null,
                 "id": 645155446,
                 "language": "Typst",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2023-12-02T02:57:41Z",
+                "open_issues": 0,
                 "owner": "brynne8",
                 "repo": "typst-undergradmath-zh",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1133,12 +1577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "用于书写形式化中数理逻辑证明题",
+                "homepage": "https://typst.app/project/r7Ds9aZS0Girz3LMtSDGcm",
                 "id": 621621319,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-21T20:44:00Z",
+                "open_issues": 0,
                 "owner": "txtxj",
                 "repo": "Formal-Methods-Typst",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1156,12 +1605,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF.",
+                "homepage": "https://github.com/Leedehai/typst-physics",
                 "id": 618919303,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-07-21T03:07:02Z",
+                "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 612
+                "stars": 612,
+                "topics": [
+                  "typst",
+                  "typst-package"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1172,12 +1629,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A port of circuitikz to Typst using CeTZ!",
+                "homepage": null,
                 "id": 630675121,
                 "language": "Typst",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-03T22:52:00Z",
+                "open_issues": 9,
                 "owner": "fenjalien",
                 "repo": "cirCeTZ",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1195,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 625715378,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2025-03-07T20:20:36Z",
+                "open_issues": 16,
                 "owner": "platformer",
                 "repo": "typst-algorithms",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1211,12 +1680,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A typst template for timetables",
+                "homepage": null,
                 "id": 632191054,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2026-07-08T16:21:31Z",
+                "open_issues": 1,
                 "owner": "ludwig-austermann",
                 "repo": "typst-timetable",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1227,12 +1701,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for generating truth tables",
+                "homepage": null,
                 "id": 620520649,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-12T01:28:28Z",
+                "open_issues": 1,
                 "owner": "PgBiel",
                 "repo": "typst-truthtable",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1243,12 +1722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WIP... it's something i'm building to test my treesitter parser...",
+                "homepage": null,
                 "id": 619084661,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-30T20:41:55Z",
+                "open_issues": 2,
                 "owner": "SeniorMars",
                 "repo": "typst-raytracer",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1270,12 +1754,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Typst in JavaScriptWorld.",
+            "homepage": "https://myriad-dreamin.github.io/typst.ts",
             "id": 625434693,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-03T06:15:02Z",
+            "open_issues": 54,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1204
+            "stars": 1205,
+            "topics": [
+              "browser",
+              "nodejs",
+              "server-side-rendering",
+              "typst",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1286,12 +1781,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python binding to typst",
+            "homepage": "https://typst-py.readthedocs.io/en/latest/",
             "id": 622595297,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T11:53:05Z",
+            "open_issues": 9,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 347
+            "stars": 347,
+            "topics": [
+              "typst"
+            ]
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1302,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solving Leetcode problems in Typst",
+            "homepage": "https://lucifer1004.github.io/leetcode.typ/",
             "id": 630043193,
             "language": "Typst",
+            "license": "MIT",
             "last_commit": "2026-01-13T14:08:28Z",
+            "open_issues": 1,
             "owner": "lucifer1004",
             "repo": "leetcode.typ",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1318,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insert and edit Typst equations in Inkscape",
+            "homepage": null,
             "id": 625403956,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-05-19T22:52:22Z",
+            "open_issues": 1,
             "owner": "herlev",
             "repo": "inktyp",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1334,12 +1846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show Typst documents in Egui",
+            "homepage": null,
             "id": 623614200,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2023-04-04T18:16:06Z",
+            "open_issues": 0,
             "owner": "mattfbacon",
             "repo": "typst-egui",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1350,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Obsolete: check out typst_of_jupyter below:",
+            "homepage": "https://lewinb.net/posts/19_typst_of_jupyter/",
             "id": 631653086,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-12-20T07:15:54Z",
+            "open_issues": 0,
             "owner": "dermesser",
             "repo": "jupyter2typst",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         },
@@ -1366,12 +1888,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automated compilation of Typst and pseudo hot reload.",
+            "homepage": null,
             "id": 620121661,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-31T11:38:40Z",
+            "open_issues": 0,
             "owner": "star-hengxing",
             "repo": "typst-xmake",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "typst",
+              "xmake"
+            ]
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
         }
@@ -1390,12 +1920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TreeSitter parser for the Typst File Format ",
+                "homepage": null,
                 "id": 617254921,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-28T19:24:43Z",
+                "open_issues": 7,
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1406,12 +1941,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tree-sitter grammar for the typst typesetting language with a focus on correctness",
+                "homepage": null,
                 "id": 621953342,
                 "language": "C",
+                "license": "EUPL-1.2",
                 "last_commit": "2024-01-29T12:57:45Z",
+                "open_issues": 14,
                 "owner": "frozolotl",
                 "repo": "tree-sitter-typst",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "parser",
+                  "tree-sitter",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1429,12 +1973,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Emacs support for Typst.",
+                "homepage": "https://sr.ht/~meow_king/typst-mode/",
                 "id": 617964329,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-25T00:40:20Z",
+                "open_issues": 1,
                 "owner": "Ziqi-Yang",
                 "repo": "typst-mode.el",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "emacs",
+                  "emacs-mode",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1452,12 +2005,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated]  An early language server for Typst, plus a VS Code extension",
+                "homepage": null,
                 "id": 617361544,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-11-05T06:22:11Z",
+                "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1151
+                "stars": 1151,
+                "topics": [
+                  "lsp",
+                  "lsp-server",
+                  "typst",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1475,12 +2038,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Renders typst code blocks in Obsidian into images using Typst through the power of WASM!",
+                "homepage": null,
                 "id": 618440185,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-03T17:46:56Z",
+                "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 536
+                "stars": 535,
+                "topics": [
+                  "obsidian",
+                  "obsidian-md",
+                  "obsidian-plugin",
+                  "typst"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1498,12 +2071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim plugin for Typst",
+                "homepage": null,
                 "id": 618406002,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2025-12-17T11:39:14Z",
+                "open_issues": 20,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
-                "stars": 384
+                "stars": 385,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             },
@@ -1514,12 +2092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WIP. Goals: Treesitter highlighting, snippets, and a smooth intergration with neovim.",
+                "homepage": null,
                 "id": 617227444,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T21:42:52Z",
+                "open_issues": 2,
                 "owner": "SeniorMars",
                 "repo": "typst.nvim",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1537,12 +2120,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATED] Use tinymist instead",
+                "homepage": "https://Enter-tainer.github.io/typst-preview/",
                 "id": 625576338,
                 "language": "Typst",
+                "license": "MIT",
                 "last_commit": "2024-07-07T12:31:45Z",
+                "open_issues": 30,
                 "owner": "Enter-tainer",
                 "repo": "typst-preview",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "typst",
+                  "typst-preview",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1560,12 +2153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typst GitHub action",
+                "homepage": null,
                 "id": 620375886,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-16T15:15:54Z",
+                "open_issues": 11,
                 "owner": "lvignoli",
                 "repo": "typst-action",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
             }
@@ -1579,15 +2177,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:05:39.397Z",
+    "last_updated": "2026-08-29T04:34:14.558Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Typst 列表中文版",
+      "homepage": null,
       "id": 623905200,
       "language": "Shell",
+      "license": null,
       "last_commit": "2023-10-07T08:24:12Z",
+      "open_issues": 6,
       "owner": "typst-cn",
       "repo": "awesome-typst-cn",
-      "stars": 600
+      "stars": 600,
+      "topics": [
+        "awesome-list",
+        "typst",
+        "typst-template"
+      ]
     },
     "original_repository_sha": "615a12573d119902af9d04947122827d744056bb",
     "enhanced_repository": "enhansome/enhansome-typst-cn",
