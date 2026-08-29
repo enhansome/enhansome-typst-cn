@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "resume",
                   "typst",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:14.558Z",
+    "last_updated": "2026-08-29T05:14:14.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
