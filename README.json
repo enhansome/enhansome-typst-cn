@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:15:46Z",
-            "open_issues": 1275,
+            "open_issues": 1277,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55723,
+            "stars": 55748,
             "topics": [
               "compiler",
               "markup",
@@ -178,7 +178,7 @@
                 "open_issues": 4,
                 "owner": "wflixu",
                 "repo": "typster",
-                "stars": 64,
+                "stars": 63,
                 "topics": [
                   "desktop-app",
                   "macos",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -341,7 +341,7 @@
                 "open_issues": 0,
                 "owner": "QQKdeGit",
                 "repo": "bupt-typst",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "bachelor-thesis",
                   "bupt",
@@ -924,7 +924,7 @@
                 "language": "Typst",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T23:15:15Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 831,
@@ -955,7 +955,7 @@
                 "open_issues": 2,
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 724,
+                "stars": 725,
                 "topics": [
                   "template",
                   "typst",
@@ -1337,10 +1337,10 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T17:32:19Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1829,
+                "stars": 1830,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1543,7 +1543,7 @@
                 "open_issues": 3,
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
-                "stars": 149,
+                "stars": 150,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1613,7 +1613,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 612,
+                "stars": 611,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1758,11 +1758,11 @@
             "id": 625434693,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-03T06:15:02Z",
-            "open_issues": 54,
+            "last_commit": "2026-08-30T13:06:11Z",
+            "open_issues": 55,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "browser",
               "nodejs",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:42:48.678Z",
+    "last_updated": "2026-08-31T01:37:52.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
