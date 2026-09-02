@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T19:40:36Z",
-            "open_issues": 1276,
+            "last_commit": "2026-09-01T16:19:50Z",
+            "open_issues": 1275,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55768,
+            "stars": 55789,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 420,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 943,
+                "stars": 945,
                 "topics": [
                   "resume",
                   "typst",
@@ -1340,7 +1340,7 @@
                 "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1831,
+                "stars": 1833,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1785,7 +1785,7 @@
             "id": 622595297,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-01T11:53:05Z",
+            "last_commit": "2026-09-01T12:13:50Z",
             "open_issues": 9,
             "owner": "messense",
             "repo": "typst-py",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:03:59.543Z",
+    "last_updated": "2026-09-02T01:26:06.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
