@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-05T21:48:05Z",
-            "open_issues": 1279,
+            "open_issues": 1285,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55863,
+            "stars": 55878,
             "topics": [
               "compiler",
               "markup",
@@ -237,7 +237,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 421,
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 948,
+                "stars": 949,
                 "topics": [
                   "resume",
                   "typst",
@@ -927,7 +927,7 @@
                 "open_issues": 2,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1201,7 +1201,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1340,7 +1340,7 @@
                 "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1613,7 +1613,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 611,
+                "stars": 610,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1762,7 +1762,7 @@
             "open_issues": 59,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1210,
+            "stars": 1211,
             "topics": [
               "browser",
               "nodejs",
@@ -1925,7 +1925,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-07-28T19:24:43Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
                 "stars": 170,
@@ -2013,7 +2013,7 @@
                 "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "lsp",
                   "lsp-server",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:21:14.800Z",
+    "last_updated": "2026-09-07T01:18:55.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
