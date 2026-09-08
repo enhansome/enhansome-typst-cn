@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T21:48:05Z",
-            "open_issues": 1285,
+            "last_commit": "2026-09-07T14:45:01Z",
+            "open_issues": 1287,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55878,
+            "stars": 55903,
             "topics": [
               "compiler",
               "markup",
@@ -237,7 +237,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 421,
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 155,
+                "stars": 156,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -1480,7 +1480,7 @@
                 "open_issues": 3,
                 "owner": "imatpot",
                 "repo": "typst-ascii-ipa",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "branner",
                   "conlang",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:18:55.112Z",
+    "last_updated": "2026-09-08T01:25:31.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",

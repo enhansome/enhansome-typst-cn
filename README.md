@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,878 | 🐛 1,285 | 🌐 Rust | 📅 2026-09-05 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,903 | 🐛 1,287 | 🌐 Rust | 📅 2026-09-07 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 55,878 | 🐛 1,285 | 🌐 Rust | 📅 2026-09-05
+* [GitHub](https://github.com/typst/typst) ⭐ 55,903 | 🐛 1,287 | 🌐 Rust | 📅 2026-09-07
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -85,7 +85,7 @@
 
 ### 官方
 
-* [typst/templates](https://github.com/typst/templates) ⭐ 421 | 🐛 24 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
+* [typst/templates](https://github.com/typst/templates) ⭐ 421 | 🐛 23 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
 ### 中国大学论文
 
@@ -155,7 +155,7 @@
 
 ### 学术海报
 
-* [typst-poster](https://github.com/pncnmnp/typst-poster) ⭐ 155 | 🐛 2 | 📅 2023-04-13: 一份学术海报模板,An academic poster template
+* [typst-poster](https://github.com/pncnmnp/typst-poster) ⭐ 156 | 🐛 2 | 📅 2023-04-13: 一份学术海报模板,An academic poster template
 
 ### 演示文稿
 
@@ -181,7 +181,7 @@
 ### 语言 文本
 
 * [notes.typ](https://github.com/tbug/notes.typ) ⭐ 34 | 🐛 0 | 🌐 Typst | 📅 2026-01-26: 脚注，尾注,Footnotes, endnotes, notes.
-* [typst-ipa](https://github.com/imatpot/typst-ipa) ⭐ 22 | 🐛 3 | 🌐 Typst | 📅 2026-07-07: ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst
+* [typst-ipa](https://github.com/imatpot/typst-ipa) ⭐ 23 | 🐛 3 | 🌐 Typst | 📅 2026-07-07: ASCII 码，国际音标转换,🔄 ASCII / IPA conversion for Typst
 * [leipzig-gloss](https://gitea.everydayimshuflin.com/greg/typst-lepizig-glossing): 莱比锡标注系统支持库，A library that provides primitives for creating glossing rules according to Leipzig.
 
 ### 数学
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
