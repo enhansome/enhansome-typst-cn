@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:13:04Z",
-            "open_issues": 1291,
+            "last_commit": "2026-09-10T13:58:10Z",
+            "open_issues": 1293,
             "owner": "typst",
             "repo": "typst",
-            "stars": 55931,
+            "stars": 55952,
             "topics": [
               "compiler",
               "markup",
@@ -108,7 +108,7 @@
                 "open_issues": 9,
                 "owner": "ItsEthra",
                 "repo": "typst-live",
-                "stars": 137,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1071,7 +1071,7 @@
                 "open_issues": 0,
                 "owner": "elegaanz",
                 "repo": "vercanard",
-                "stars": 109,
+                "stars": 110,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -1201,7 +1201,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1602,
+                "stars": 1603,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:29:26.318Z",
+    "last_updated": "2026-09-11T01:29:41.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
@@ -2188,7 +2188,7 @@
       "open_issues": 6,
       "owner": "typst-cn",
       "repo": "awesome-typst-cn",
-      "stars": 599,
+      "stars": 600,
       "topics": [
         "awesome-list",
         "typst",

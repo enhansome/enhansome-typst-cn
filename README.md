@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,931 | 🐛 1,291 | 🌐 Rust | 📅 2026-09-09 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 55,952 | 🐛 1,293 | 🌐 Rust | 📅 2026-09-10 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 55,931 | 🐛 1,291 | 🌐 Rust | 📅 2026-09-09
+* [GitHub](https://github.com/typst/typst) ⭐ 55,952 | 🐛 1,293 | 🌐 Rust | 📅 2026-09-10
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -71,7 +71,7 @@
 ### 工具
 
 * [typst-fmt](https://github.com/astrale-sharp/typst-fmt/) ⚠️ Archived: typ 文件格式化工具，An in development Typst formatter (PR welcomed)
-* [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 137 | 🐛 9 | 🌐 Rust | 📅 2026-02-23: 基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser
+* [typst-live](https://github.com/ItsEthra/typst-live) ⭐ 136 | 🐛 9 | 🌐 Rust | 📅 2026-02-23: 基于浏览器的 PDF 自动刷新工具,Hot reloading of pdf in web browser
 * [typst-bot](https://github.com/mattfbacon/typst-bot) ⭐ 109 | 🐛 4 | 🌐 Rust | 📅 2026-08-13:discord 机器人，支持 typst 渲染 ,A discord bot to render Typst code
 * [typst-pandoc](https://github.com/lvignoli/typst-pandoc) ⚠️ Archived: Pandoc 集成 ，Typst custom reader and writer for Pandoc
 * [yank](https://addons.mozilla.org/en-US/firefox/addon/yank/):Firefox 扩展，用到了 typst 作为内容输出格式支持 ， Yank URL and title of current tab, format to a chosen markup language, and copy to clipboard (supports typst link format)
@@ -147,7 +147,7 @@
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 151 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
 * [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 142 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
 * [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 110 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
-* [vercanard](https://github.com/elegaanz/vercanard) ⭐ 109 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
+* [vercanard](https://github.com/elegaanz/vercanard) ⭐ 110 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 95 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 * [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 74 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
 * [moderncv.typst](https://github.com/giovanniberti/moderncv.typst) ⭐ 67 | 🐛 0 | 🌐 Typst | 📅 2024-04-02: 参考 `moderncv` 的简历模板 ，A CV template inspired by LaTeX's `moderncv`
@@ -159,7 +159,7 @@
 
 ### 演示文稿
 
-* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,602 | 🐛 98 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
+* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,603 | 🐛 98 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
 
 ## 库和工具类
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
