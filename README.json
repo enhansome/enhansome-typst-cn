@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T12:23:47Z",
-            "open_issues": 1292,
+            "last_commit": "2026-09-14T12:31:26Z",
+            "open_issues": 1294,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56001,
+            "stars": 56015,
             "topics": [
               "compiler",
               "markup",
@@ -318,7 +318,7 @@
                 "open_issues": 0,
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
-                "stars": 114,
+                "stars": 113,
                 "topics": [
                   "typst"
                 ]
@@ -923,11 +923,11 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T23:15:15Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-14T03:25:22Z",
+                "open_issues": 3,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1201,7 +1201,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1613,7 +1613,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1789,7 +1789,7 @@
             "open_issues": 9,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "typst"
             ]
@@ -2046,7 +2046,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 534,
+                "stars": 533,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:43:10.553Z",
+    "last_updated": "2026-09-15T01:55:06.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
