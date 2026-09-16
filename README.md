@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,015 | 🐛 1,294 | 🌐 Rust | 📅 2026-09-14 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,040 | 🐛 1,295 | 🌐 Rust | 📅 2026-09-15 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,015 | 🐛 1,294 | 🌐 Rust | 📅 2026-09-14
+* [GitHub](https://github.com/typst/typst) ⭐ 56,040 | 🐛 1,295 | 🌐 Rust | 📅 2026-09-15
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -85,7 +85,7 @@
 
 ### 官方
 
-* [typst/templates](https://github.com/typst/templates) ⭐ 421 | 🐛 23 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
+* [typst/templates](https://github.com/typst/templates) ⭐ 422 | 🐛 23 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
 ### 中国大学论文
 
@@ -108,9 +108,9 @@
 
 * [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) ⭐ 63 | 🐛 1 | 🌐 Typst | 📅 2025-04-11: 简单的论文模板 ,This template defines a frontpage with a centered title and author informations, and an optional logo.
 
-* [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) ⭐ 30 | 🐛 4 | 🌐 TeX | 📅 2023-09-14: IEEE 论文的模板，A template to write IEEE Papers in Typst
+* [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish) ⭐ 30 | 🐛 1 | 🌐 Typst | 📅 2025-11-20: APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
 
-* [typst-apa7ish](https://github.com/mrwunderbar666/typst-apa7ish) ⭐ 29 | 🐛 1 | 🌐 Typst | 📅 2025-11-20: APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).
+* [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) ⭐ 30 | 🐛 4 | 🌐 TeX | 📅 2023-09-14: IEEE 论文的模板，A template to write IEEE Papers in Typst
 
 * [typst-templates](https://github.com/haxibami/typst-template) ⭐ 27 | 🐛 0 | 🌐 Typst | 📅 2025-10-21: 个人编写的模板，My typst templates
 
@@ -194,7 +194,7 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 611 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 612 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 166 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 533 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 532 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

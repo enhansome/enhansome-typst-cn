@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T12:31:26Z",
-            "open_issues": 1294,
+            "last_commit": "2026-09-15T16:10:14Z",
+            "open_issues": 1295,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56015,
+            "stars": 56040,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 421,
+                "stars": 422,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -567,6 +567,31 @@
             },
             {
               "node_type": "item",
+              "title": "typst-apa7ish",
+              "description": "APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Typst Template that (mostly) complies with APA7 Style (Work in Progress)",
+                "homepage": "https://typst.app/universe/package/apa7-ish",
+                "id": 620462352,
+                "language": "Typst",
+                "license": "MIT",
+                "last_commit": "2025-11-20T16:11:41Z",
+                "open_issues": 1,
+                "owner": "mrwunderbar666",
+                "repo": "typst-apa7ish",
+                "stars": 30,
+                "topics": [
+                  "apa7",
+                  "template",
+                  "typst"
+                ]
+              },
+              "first_seen": "2026-08-28T07:05:39.397Z"
+            },
+            {
+              "node_type": "item",
               "title": "ieee-typst-template",
               "description": "IEEE 论文的模板，A template to write IEEE Papers in Typst",
               "children": [],
@@ -583,31 +608,6 @@
                 "repo": "ieee-typst-template",
                 "stars": 30,
                 "topics": [
-                  "typst"
-                ]
-              },
-              "first_seen": "2026-08-28T07:05:39.397Z"
-            },
-            {
-              "node_type": "item",
-              "title": "typst-apa7ish",
-              "description": "APA格式第七版模板, Typst Template that (mostly) complies with APA7 Style (Work in Progress).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Typst Template that (mostly) complies with APA7 Style (Work in Progress)",
-                "homepage": "https://typst.app/universe/package/apa7-ish",
-                "id": 620462352,
-                "language": "Typst",
-                "license": "MIT",
-                "last_commit": "2025-11-20T16:11:41Z",
-                "open_issues": 1,
-                "owner": "mrwunderbar666",
-                "repo": "typst-apa7ish",
-                "stars": 29,
-                "topics": [
-                  "apa7",
-                  "template",
                   "typst"
                 ]
               },
@@ -1613,7 +1613,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 611,
+                "stars": 612,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -2046,7 +2046,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2176,7 +2176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:55:06.441Z",
+    "last_updated": "2026-09-16T01:43:23.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
