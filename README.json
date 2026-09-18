@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:50:01Z",
-            "open_issues": 1297,
+            "last_commit": "2026-09-17T16:45:01Z",
+            "open_issues": 1295,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56062,
+            "stars": 56086,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 958,
+                "stars": 962,
                 "topics": [
                   "resume",
                   "typst",
@@ -955,7 +955,7 @@
                 "open_issues": 2,
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 725,
+                "stars": 726,
                 "topics": [
                   "template",
                   "typst",
@@ -1336,8 +1336,8 @@
                 "id": 628408767,
                 "language": "Typst",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-13T12:02:16Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-17T08:14:46Z",
+                "open_issues": 74,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1845,
@@ -1512,17 +1512,18 @@
               "repo_info": {
                 "archived": false,
                 "description": "An implementation of numbered theorem environments in typst",
-                "homepage": null,
+                "homepage": "https://typst.app/universe/package/ctheorems",
                 "id": 620338585,
                 "language": "Typst",
                 "license": "MIT",
-                "last_commit": "2026-09-12T04:40:09Z",
+                "last_commit": "2026-09-17T14:20:33Z",
                 "open_issues": 26,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
                 "stars": 288,
                 "topics": [
-                  "typst"
+                  "typst",
+                  "typst-package"
                 ]
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1762,7 +1763,7 @@
             "open_issues": 60,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1218,
+            "stars": 1219,
             "topics": [
               "browser",
               "nodejs",
@@ -2176,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:43:58.893Z",
+    "last_updated": "2026-09-18T01:33:43.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
