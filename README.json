@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T17:51:39Z",
-            "open_issues": 1286,
+            "open_issues": 1288,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56110,
+            "stars": 56132,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 963,
+                "stars": 965,
                 "topics": [
                   "resume",
                   "typst",
@@ -927,7 +927,7 @@
                 "open_issues": 3,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "cv",
                   "pdf",
@@ -955,7 +955,7 @@
                 "open_issues": 2,
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "template",
                   "typst",
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "wusyong",
                 "repo": "resume.typ",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1121,7 +1121,7 @@
                 "open_issues": 3,
                 "owner": "gaoachao",
                 "repo": "uniquecv-typst",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -2080,7 +2080,7 @@
                 "open_issues": 20,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
-                "stars": 385,
+                "stars": 386,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:38:28.874Z",
+    "last_updated": "2026-09-20T01:42:07.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
