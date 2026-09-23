@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T17:51:39Z",
-            "open_issues": 1290,
+            "last_commit": "2026-09-22T18:20:38Z",
+            "open_issues": 1284,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56173,
+            "stars": 56188,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 422,
+                "stars": 423,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 968,
+                "stars": 969,
                 "topics": [
                   "resume",
                   "typst",
@@ -927,7 +927,7 @@
                 "open_issues": 4,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1763,7 +1763,7 @@
             "open_issues": 61,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "browser",
               "nodejs",
@@ -2080,7 +2080,7 @@
                 "open_issues": 20,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
-                "stars": 386,
+                "stars": 387,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:54:33.099Z",
+    "last_updated": "2026-09-23T01:49:29.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
