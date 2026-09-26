@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T05:48:22Z",
-            "open_issues": 1283,
+            "open_issues": 1285,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56229,
+            "stars": 56252,
             "topics": [
               "compiler",
               "markup",
@@ -318,7 +318,7 @@
                 "open_issues": 0,
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "typst"
                 ]
@@ -1100,7 +1100,7 @@
                 "open_issues": 0,
                 "owner": "ice-kylin",
                 "repo": "typst-cv-miku",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1201,7 +1201,7 @@
                 "open_issues": 98,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1336,11 +1336,11 @@
                 "id": 628408767,
                 "language": "Typst",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-17T08:14:46Z",
-                "open_issues": 75,
+                "last_commit": "2026-09-25T09:24:08Z",
+                "open_issues": 74,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1851,
+                "stars": 1852,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1763,7 +1763,7 @@
             "open_issues": 61,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1226,
+            "stars": 1227,
             "topics": [
               "browser",
               "nodejs",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:56:09.201Z",
+    "last_updated": "2026-09-26T02:02:24.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
