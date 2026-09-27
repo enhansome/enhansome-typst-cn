@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,252 | 🐛 1,285 | 🌐 Rust | 📅 2026-09-24 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,268 | 🐛 1,288 | 🌐 Rust | 📅 2026-09-24 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,252 | 🐛 1,285 | 🌐 Rust | 📅 2026-09-24
+* [GitHub](https://github.com/typst/typst) ⭐ 56,268 | 🐛 1,288 | 🌐 Rust | 📅 2026-09-24
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -141,12 +141,12 @@
 ### 简历
 
 * [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 972 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
-* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 842 | 🐛 4 | 🌐 Typst | 📅 2026-09-21 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
+* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 842 | 🐛 0 | 🌐 Typst | 📅 2026-09-26 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 727 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 192 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 152 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
 * [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 142 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
-* [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 110 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
+* [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 111 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
 * [vercanard](https://github.com/elegaanz/vercanard) ⭐ 110 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 96 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 * [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 75 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
@@ -207,9 +207,9 @@
 ## 编程
 
 * [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,227 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-24: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
-* [typst-py](https://github.com/messense/typst-py) ⭐ 353 | 🐛 10 | 🌐 Rust | 📅 2026-09-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+* [typst-py](https://github.com/messense/typst-py) ⭐ 354 | 🐛 10 | 🌐 Rust | 📅 2026-09-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
-* [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
+* [inktyp](https://github.com/herlev/inktyp) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 * [typst-egui](https://github.com/mattfbacon/typst-egui) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2023-04-04: 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
 * [jupyter2typst](https://github.com/dermesser/jupyter2typst) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2023-12-20: 将 `jupyter notebooks` 转换成 `typst ` 代码的工具  ，A handy tool for converting jupyter notebooks into typst code for producing PDFs.
 * [Typst xmake](https://github.com/star-hengxing/typst-xmake) ⚠️ Archived: 使用 xmake 编译 typst ,实现伪热更新 , Use xmake as build system to compile typst to pdf.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
