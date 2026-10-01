@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:30:42Z",
-            "open_issues": 1287,
+            "last_commit": "2026-09-30T20:45:31Z",
+            "open_issues": 1282,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56341,
+            "stars": 56352,
             "topics": [
               "compiler",
               "markup",
@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 239,
+                "stars": 240,
                 "topics": [
                   "hust",
                   "typst",
@@ -955,7 +955,7 @@
                 "open_issues": 2,
                 "owner": "skyzh",
                 "repo": "chicv",
-                "stars": 727,
+                "stars": 728,
                 "topics": [
                   "template",
                   "typst",
@@ -1264,7 +1264,7 @@
                 "open_issues": 10,
                 "owner": "RolfBremer",
                 "repo": "in-dexter",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "typst"
                 ]
@@ -1340,7 +1340,7 @@
                 "open_issues": 75,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1853,
+                "stars": 1854,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1760,7 +1760,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T17:09:39Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
             "stars": 1226,
@@ -1790,7 +1790,7 @@
             "open_issues": 11,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:26:08.311Z",
+    "last_updated": "2026-10-01T02:28:06.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
