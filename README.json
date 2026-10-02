@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T20:45:31Z",
-            "open_issues": 1282,
+            "last_commit": "2026-10-01T09:15:19Z",
+            "open_issues": 1290,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56352,
+            "stars": 56366,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 974,
+                "stars": 975,
                 "topics": [
                   "resume",
                   "typst",
@@ -923,8 +923,8 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T03:26:02Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-01T18:06:40Z",
+                "open_issues": 0,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 845,
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1608,
+                "stars": 1609,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1340,7 +1340,7 @@
                 "open_issues": 75,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1854,
+                "stars": 1855,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1763,7 +1763,7 @@
             "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1226,
+            "stars": 1225,
             "topics": [
               "browser",
               "nodejs",
@@ -1786,8 +1786,8 @@
             "id": 622595297,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:13:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-01T11:52:24Z",
+            "open_issues": 12,
             "owner": "messense",
             "repo": "typst-py",
             "stars": 355,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:28:06.774Z",
+    "last_updated": "2026-10-02T02:35:43.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
