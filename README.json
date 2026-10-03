@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T09:15:19Z",
+            "last_commit": "2026-10-02T12:47:26Z",
             "open_issues": 1290,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56366,
+            "stars": 56383,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -1337,7 +1337,7 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-25T09:24:08Z",
-                "open_issues": 75,
+                "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1855,
@@ -1517,7 +1517,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-09-21T00:39:10Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
                 "stars": 289,
@@ -1790,7 +1790,7 @@
             "open_issues": 12,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "typst"
             ]
@@ -1929,7 +1929,7 @@
                 "open_issues": 9,
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:35:43.416Z",
+    "last_updated": "2026-10-03T02:20:39.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
