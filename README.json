@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "typst/typst",
-          "description": null,
+          "description": "typst/typst",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 1290,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56383,
+            "stars": 56386,
             "topics": [
               "compiler",
               "markup",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:20:39.213Z",
+    "last_updated": "2026-10-03T05:10:38.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",

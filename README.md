@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,383 | 🐛 1,290 | 🌐 Rust | 📅 2026-10-02 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,386 | 🐛 1,290 | 🌐 Rust | 📅 2026-10-02 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,383 | 🐛 1,290 | 🌐 Rust | 📅 2026-10-02
+* [GitHub](https://github.com/typst/typst) ⭐ 56,386 | 🐛 1,290 | 🌐 Rust | 📅 2026-10-02
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
