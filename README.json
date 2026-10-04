@@ -19,7 +19,7 @@
             "open_issues": 1290,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56386,
+            "stars": 56400,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 975,
+                "stars": 974,
                 "topics": [
                   "resume",
                   "typst",
@@ -1340,7 +1340,7 @@
                 "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1855,
+                "stars": 1856,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1763,7 +1763,7 @@
             "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1225,
+            "stars": 1228,
             "topics": [
               "browser",
               "nodejs",
@@ -1790,7 +1790,7 @@
             "open_issues": 12,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:10:38.718Z",
+    "last_updated": "2026-10-04T02:52:14.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
