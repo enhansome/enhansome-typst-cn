@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:47:26Z",
-            "open_issues": 1290,
+            "open_issues": 1293,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56400,
+            "stars": 56409,
             "topics": [
               "compiler",
               "markup",
@@ -927,7 +927,7 @@
                 "open_issues": 0,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 845,
+                "stars": 844,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1243,7 +1243,7 @@
                 "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 415,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:52:14.329Z",
+    "last_updated": "2026-10-05T02:25:03.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
