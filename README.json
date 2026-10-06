@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:47:26Z",
-            "open_issues": 1293,
+            "last_commit": "2026-10-05T13:36:04Z",
+            "open_issues": 1295,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56409,
+            "stars": 56423,
             "topics": [
               "compiler",
               "markup",
@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 240,
+                "stars": 241,
                 "topics": [
                   "hust",
                   "typst",
@@ -923,7 +923,7 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T18:06:40Z",
+                "last_commit": "2026-10-05T18:12:41Z",
                 "open_issues": 0,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
@@ -1100,7 +1100,7 @@
                 "open_issues": 0,
                 "owner": "ice-kylin",
                 "repo": "typst-cv-miku",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T02:25:03.194Z",
+    "last_updated": "2026-10-06T03:20:54.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
