@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:14:31Z",
-            "open_issues": 1297,
+            "last_commit": "2026-10-06T15:17:37Z",
+            "open_issues": 1299,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56430,
+            "stars": 56449,
             "topics": [
               "compiler",
               "markup",
@@ -1790,7 +1790,7 @@
             "open_issues": 12,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:14.835Z",
+    "last_updated": "2026-10-07T02:42:33.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",

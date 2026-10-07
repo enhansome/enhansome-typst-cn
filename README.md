@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,430 | 🐛 1,297 | 🌐 Rust | 📅 2026-10-06 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,449 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-06 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,430 | 🐛 1,297 | 🌐 Rust | 📅 2026-10-06
+* [GitHub](https://github.com/typst/typst) ⭐ 56,449 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-06
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -207,7 +207,7 @@
 ## 编程
 
 * [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,228 | 🐛 62 | 🌐 TypeScript | 📅 2026-09-24: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
-* [typst-py](https://github.com/messense/typst-py) ⭐ 357 | 🐛 12 | 🌐 Rust | 📅 2026-10-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+* [typst-py](https://github.com/messense/typst-py) ⭐ 358 | 🐛 12 | 🌐 Rust | 📅 2026-10-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 * [typst-egui](https://github.com/mattfbacon/typst-egui) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2023-04-04: 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
