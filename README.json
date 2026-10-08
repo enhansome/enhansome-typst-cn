@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T15:17:37Z",
-            "open_issues": 1299,
+            "last_commit": "2026-10-07T20:25:14Z",
+            "open_issues": 1300,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56449,
+            "stars": 56474,
             "topics": [
               "compiler",
               "markup",
@@ -1142,7 +1142,7 @@
                 "open_issues": 0,
                 "owner": "giovanniberti",
                 "repo": "moderncv.typst",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1759,7 +1759,7 @@
             "id": 625434693,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T17:09:39Z",
+            "last_commit": "2026-10-07T09:37:41Z",
             "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
@@ -1787,10 +1787,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T11:52:24Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:42:33.833Z",
+    "last_updated": "2026-10-08T02:58:56.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
