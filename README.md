@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,497 | 🐛 1,302 | 🌐 Rust | 📅 2026-10-07 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,521 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-09 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,497 | 🐛 1,302 | 🌐 Rust | 📅 2026-10-07
+* [GitHub](https://github.com/typst/typst) ⭐ 56,521 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-09
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -91,7 +91,7 @@
 
 * [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 242 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
 * [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) ⭐ 166 | 🐛 2 | 🌐 Typst | 📅 2026-09-03: 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
-* [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) ⭐ 114 | 🐛 0 | 🌐 Typst | 📅 2025-12-05: 上海大学本科毕业论文 typst 模板 (开发ing)
+* [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) ⭐ 115 | 🐛 0 | 🌐 Typst | 📅 2025-12-05: 上海大学本科毕业论文 typst 模板 (开发ing)
 * [bupt-typst](https://github.com/QQKdeGit/bupt-typst) ⭐ 96 | 🐛 0 | 🌐 Typst | 📅 2024-01-13: 北京邮电大学本科学士学位论文模板
 * [sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst) ⚠️ Archived: 中山大学学位论文 Typst 模板
 * [BUAA-typst](https://github.com/cherichy/BUAA-typst) ⭐ 26 | 🐛 0 | 🌐 Typst | 📅 2023-11-20: 北京航空航天大学学位论文模板
@@ -102,7 +102,7 @@
 
 ### 论文
 
-* [SimplePaper](https://github.com/1bitbool/SimplePaper) ⭐ 185 | 🐛 1 | 🌐 Typst | 📅 2025-04-16: SimplePaper 是 Typst 的模版，用于生成简单的论文。
+* [SimplePaper](https://github.com/1bitbool/SimplePaper) ⭐ 184 | 🐛 1 | 🌐 Typst | 📅 2025-04-16: SimplePaper 是 Typst 的模版，用于生成简单的论文。
 
 * [simple-typst-thesis](https://github.com/zagoli/simple-typst-thesis) ⭐ 63 | 🐛 1 | 🌐 Typst | 📅 2025-04-11: 编写简单论文的模板，A template useful for writing simple thesis in Typst
 
@@ -140,7 +140,7 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 973 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 972 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 844 | 🐛 0 | 🌐 Typst | 📅 2026-10-05 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 728 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 192 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
@@ -155,7 +155,7 @@
 
 ### 学术海报
 
-* [typst-poster](https://github.com/pncnmnp/typst-poster) ⭐ 157 | 🐛 2 | 📅 2023-04-13: 一份学术海报模板,An academic poster template
+* [typst-poster](https://github.com/pncnmnp/typst-poster) ⭐ 156 | 🐛 2 | 📅 2023-04-13: 一份学术海报模板,An academic poster template
 
 ### 演示文稿
 
@@ -194,19 +194,19 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 614 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 613 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 166 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
 
 * [typst-algorithms](https://github.com/platformer/typst-algorithms) ⭐ 184 | 🐛 16 | 🌐 Typst | 📅 2025-03-07: 用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers.
-* [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) ⭐ 113 | 🐛 1 | 🌐 Typst | 📅 2026-07-08: 时刻表模板 ,A typst template for timetables
+* [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) ⭐ 112 | 🐛 1 | 🌐 Typst | 📅 2026-07-08: 时刻表模板 ,A typst template for timetables
 * [typst-truthtable](https://github.com/PgBiel/typst-truthtable) ⭐ 15 | 🐛 1 | 📅 2023-04-12: 生成真值表的库 , A library for generating truth tables
 * [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) ⭐ 10 | 🐛 2 | 📅 2023-03-30: raytracer in typst
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,228 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-08: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,231 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-08: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 360 | 🐛 13 | 🌐 Rust | 📅 2026-10-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 533 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 532 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

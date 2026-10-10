@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T20:25:14Z",
-            "open_issues": 1302,
+            "last_commit": "2026-10-09T16:09:32Z",
+            "open_issues": 1299,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56497,
+            "stars": 56521,
             "topics": [
               "compiler",
               "markup",
@@ -318,7 +318,7 @@
                 "open_issues": 0,
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "typst"
                 ]
@@ -507,7 +507,7 @@
                 "open_issues": 1,
                 "owner": "jinhao-huang",
                 "repo": "SimplePaper",
-                "stars": 185,
+                "stars": 184,
                 "topics": [
                   "typst",
                   "typst-template"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 973,
+                "stars": 972,
                 "topics": [
                   "resume",
                   "typst",
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 157,
+                "stars": 156,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -1614,7 +1614,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 614,
+                "stars": 613,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1689,7 +1689,7 @@
                 "open_issues": 1,
                 "owner": "ludwig-austermann",
                 "repo": "typst-timetable",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1763,7 +1763,7 @@
             "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1228,
+            "stars": 1231,
             "topics": [
               "browser",
               "nodejs",
@@ -2014,7 +2014,7 @@
                 "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1150,
+                "stars": 1149,
                 "topics": [
                   "lsp",
                   "lsp-server",
@@ -2047,7 +2047,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:05:49.707Z",
+    "last_updated": "2026-10-10T02:47:13.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
