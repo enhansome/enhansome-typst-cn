@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,521 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-09 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,540 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,521 | 🐛 1,299 | 🌐 Rust | 📅 2026-10-09
+* [GitHub](https://github.com/typst/typst) ⭐ 56,540 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -140,7 +140,7 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 972 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 973 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 844 | 🐛 0 | 🌐 Typst | 📅 2026-10-05 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 728 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 192 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
@@ -194,13 +194,13 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 613 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 614 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 166 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
 
 * [typst-algorithms](https://github.com/platformer/typst-algorithms) ⭐ 184 | 🐛 16 | 🌐 Typst | 📅 2025-03-07: 用于编写算法，为代码的工具包,Typst module for writing algorithms. Use the algo function for writing pseudocode and the code function for writing codeblocks with line numbers.
-* [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) ⭐ 112 | 🐛 1 | 🌐 Typst | 📅 2026-07-08: 时刻表模板 ,A typst template for timetables
+* [typst-timetable](https://github.com/ludwig-austermann/typst-timetable) ⭐ 113 | 🐛 1 | 🌐 Typst | 📅 2026-07-08: 时刻表模板 ,A typst template for timetables
 * [typst-truthtable](https://github.com/PgBiel/typst-truthtable) ⭐ 15 | 🐛 1 | 📅 2023-04-12: 生成真值表的库 , A library for generating truth tables
 * [typst-raytracer](https://github.com/SeniorMars/typst-raytracer) ⭐ 10 | 🐛 2 | 📅 2023-03-30: raytracer in typst
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
