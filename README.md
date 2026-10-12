@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,540 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,566 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,540 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09
+* [GitHub](https://github.com/typst/typst) ⭐ 56,566 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-09
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -159,7 +159,7 @@
 
 ### 演示文稿
 
-* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,610 | 🐛 97 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
+* [typst-slides](https://github.com/andreasKroepelin/typst-slides) ⭐ 1,609 | 🐛 97 | 🌐 Typst | 📅 2026-02-28: 创建演示文稿的模板,A template for creating slides in Typst
 
 ## 库和工具类
 
@@ -194,7 +194,7 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 614 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 615 | 🐛 8 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 166 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
@@ -206,7 +206,7 @@
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,231 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-08: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,232 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-08: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 360 | 🐛 13 | 🌐 Rust | 📅 2026-10-01: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 28 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
