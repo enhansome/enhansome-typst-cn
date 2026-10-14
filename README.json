@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T17:00:03Z",
-            "open_issues": 1305,
+            "last_commit": "2026-10-13T09:31:42Z",
+            "open_issues": 1308,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56585,
+            "stars": 56603,
             "topics": [
               "compiler",
               "markup",
@@ -318,7 +318,7 @@
                 "open_issues": 0,
                 "owner": "shuosc",
                 "repo": "SHU-Bachelor-Thesis-Typst",
-                "stars": 116,
+                "stars": 115,
                 "topics": [
                   "typst"
                 ]
@@ -1340,7 +1340,7 @@
                 "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1857,
+                "stars": 1859,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1760,7 +1760,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T08:04:56Z",
-            "open_issues": 62,
+            "open_issues": 61,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
             "stars": 1233,
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "typst"
             ]
@@ -2162,7 +2162,7 @@
                 "open_issues": 11,
                 "owner": "lvignoli",
                 "repo": "typst-action",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:54:31.554Z",
+    "last_updated": "2026-10-14T02:10:37.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
