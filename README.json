@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T09:31:42Z",
-            "open_issues": 1308,
+            "open_issues": 1311,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56603,
+            "stars": 56619,
             "topics": [
               "compiler",
               "markup",
@@ -1614,7 +1614,7 @@
                 "open_issues": 8,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1760,10 +1760,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T08:04:56Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1233,
+            "stars": 1234,
             "topics": [
               "browser",
               "nodejs",
@@ -1790,7 +1790,7 @@
             "open_issues": 13,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:10:37.790Z",
+    "last_updated": "2026-10-15T01:52:02.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
