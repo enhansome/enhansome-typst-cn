@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T09:31:42Z",
-            "open_issues": 1311,
+            "last_commit": "2026-10-15T16:25:13Z",
+            "open_issues": 1312,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56619,
+            "stars": 56646,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 974,
+                "stars": 976,
                 "topics": [
                   "resume",
                   "typst",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:52:02.307Z",
+    "last_updated": "2026-10-16T01:41:07.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
@@ -2189,7 +2189,7 @@
       "open_issues": 6,
       "owner": "typst-cn",
       "repo": "awesome-typst-cn",
-      "stars": 602,
+      "stars": 603,
       "topics": [
         "awesome-list",
         "typst",
