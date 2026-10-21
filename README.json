@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T13:24:44Z",
-            "open_issues": 1317,
+            "last_commit": "2026-10-20T22:09:31Z",
+            "open_issues": 1320,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56716,
+            "stars": 56729,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 427,
+                "stars": 429,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 979,
+                "stars": 980,
                 "topics": [
                   "resume",
                   "typst",
@@ -923,8 +923,8 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T03:26:40Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-20T15:12:52Z",
+                "open_issues": 0,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 845,
@@ -1071,7 +1071,7 @@
                 "open_issues": 0,
                 "owner": "elegaanz",
                 "repo": "vercanard",
-                "stars": 110,
+                "stars": 111,
                 "topics": [
                   "cv",
                   "cv-template",
@@ -1340,7 +1340,7 @@
                 "open_issues": 73,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1863,
+                "stars": 1862,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1763,7 +1763,7 @@
             "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1241,
+            "stars": 1243,
             "topics": [
               "browser",
               "nodejs",
@@ -1786,8 +1786,8 @@
             "id": 622595297,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:52:24Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-20T06:17:34Z",
+            "open_issues": 11,
             "owner": "messense",
             "repo": "typst-py",
             "stars": 364,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:07:20.946Z",
+    "last_updated": "2026-10-21T02:03:41.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
