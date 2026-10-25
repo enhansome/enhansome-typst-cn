@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T13:59:01Z",
-            "open_issues": 1317,
+            "last_commit": "2026-10-24T20:10:47Z",
+            "open_issues": 1326,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56793,
+            "stars": 56808,
             "topics": [
               "compiler",
               "markup",
@@ -178,7 +178,7 @@
                 "open_issues": 4,
                 "owner": "wflixu",
                 "repo": "typster",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "desktop-app",
                   "macos",
@@ -730,7 +730,7 @@
                 "open_issues": 2,
                 "owner": "ludwig-austermann",
                 "repo": "typst-din-5008-letter",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 981,
+                "stars": 982,
                 "topics": [
                   "resume",
                   "typst",
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1610,
+                "stars": 1609,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1243,7 +1243,7 @@
                 "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 414,
+                "stars": 413,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1340,7 +1340,7 @@
                 "open_issues": 74,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1864,
+                "stars": 1863,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1638,7 +1638,7 @@
                 "open_issues": 9,
                 "owner": "fenjalien",
                 "repo": "cirCeTZ",
-                "stars": 167,
+                "stars": 166,
                 "topics": [
                   "typst"
                 ]
@@ -1763,7 +1763,7 @@
             "open_issues": 63,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "browser",
               "nodejs",
@@ -1790,7 +1790,7 @@
             "open_issues": 11,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 364,
+            "stars": 363,
             "topics": [
               "typst"
             ]
@@ -1834,7 +1834,7 @@
             "open_issues": 1,
             "owner": "herlev",
             "repo": "inktyp",
-            "stars": 28,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1950,7 +1950,7 @@
                 "open_issues": 14,
                 "owner": "frozolotl",
                 "repo": "tree-sitter-typst",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "parser",
                   "tree-sitter",
@@ -2014,7 +2014,7 @@
                 "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1150,
+                "stars": 1149,
                 "topics": [
                   "lsp",
                   "lsp-server",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T02:00:18.718Z",
+    "last_updated": "2026-10-25T01:41:17.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
