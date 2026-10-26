@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T20:10:47Z",
-            "open_issues": 1326,
+            "open_issues": 1333,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56808,
+            "stars": 56820,
             "topics": [
               "compiler",
               "markup",
@@ -108,7 +108,7 @@
                 "open_issues": 9,
                 "owner": "ItsEthra",
                 "repo": "typst-live",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 242,
+                "stars": 243,
                 "topics": [
                   "hust",
                   "typst",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "resume",
                   "typst",
@@ -1541,7 +1541,7 @@
                 "language": "Typst",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-04-30T03:24:58Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
                 "stars": 151,
@@ -1760,10 +1760,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T08:04:56Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1244,
+            "stars": 1245,
             "topics": [
               "browser",
               "nodejs",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:41:17.534Z",
+    "last_updated": "2026-10-26T01:46:28.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
