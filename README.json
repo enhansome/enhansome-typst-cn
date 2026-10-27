@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T20:10:47Z",
-            "open_issues": 1333,
+            "last_commit": "2026-10-26T18:21:54Z",
+            "open_issues": 1328,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56820,
+            "stars": 56836,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 983,
+                "stars": 982,
                 "topics": [
                   "resume",
                   "typst",
@@ -923,8 +923,8 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T15:12:52Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-26T03:24:35Z",
+                "open_issues": 2,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 846,
@@ -1540,8 +1540,8 @@
                 "id": 617812417,
                 "language": "Typst",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-04-30T03:24:58Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-26T10:18:59Z",
+                "open_issues": 3,
                 "owner": "johanvx",
                 "repo": "typst-undergradmath",
                 "stars": 151,
@@ -1790,7 +1790,7 @@
             "open_issues": 11,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "typst"
             ]
@@ -2080,7 +2080,7 @@
                 "open_issues": 20,
                 "owner": "kaarmu",
                 "repo": "typst.vim",
-                "stars": 389,
+                "stars": 388,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:46:28.567Z",
+    "last_updated": "2026-10-27T02:26:35.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
