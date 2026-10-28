@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T18:21:54Z",
-            "open_issues": 1328,
+            "last_commit": "2026-10-28T02:35:12Z",
+            "open_issues": 1326,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56836,
+            "stars": 56858,
             "topics": [
               "compiler",
               "markup",
@@ -927,7 +927,7 @@
                 "open_issues": 2,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1609,
+                "stars": 1610,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1336,8 +1336,8 @@
                 "id": 628408767,
                 "language": "Typst",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-19T10:58:52Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-27T11:52:45Z",
+                "open_issues": 75,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1863,
@@ -1520,7 +1520,7 @@
                 "open_issues": 8,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1763,7 +1763,7 @@
             "open_issues": 64,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "browser",
               "nodejs",
@@ -1929,7 +1929,7 @@
                 "open_issues": 9,
                 "owner": "SeniorMars",
                 "repo": "tree-sitter-typst",
-                "stars": 171,
+                "stars": 172,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:26:35.088Z",
+    "last_updated": "2026-10-28T02:35:53.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
