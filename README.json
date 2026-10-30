@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T01:04:21Z",
-            "open_issues": 1321,
+            "last_commit": "2026-10-30T02:02:23Z",
+            "open_issues": 1323,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56869,
+            "stars": 56886,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 23,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 982,
+                "stars": 981,
                 "topics": [
                   "resume",
                   "typst",
@@ -923,8 +923,8 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T03:24:35Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-29T10:57:48Z",
+                "open_issues": 3,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 846,
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1760,10 +1760,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-29T00:48:46Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1247,
+            "stars": 1248,
             "topics": [
               "browser",
               "nodejs",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:54:53.895Z",
+    "last_updated": "2026-10-30T02:59:11.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
