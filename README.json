@@ -19,7 +19,7 @@
             "open_issues": 1323,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56886,
+            "stars": 56907,
             "topics": [
               "compiler",
               "markup",
@@ -178,7 +178,7 @@
                 "open_issues": 4,
                 "owner": "wflixu",
                 "repo": "typster",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "desktop-app",
                   "macos",
@@ -927,7 +927,7 @@
                 "open_issues": 3,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1045,7 +1045,7 @@
                 "open_issues": 0,
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "nix",
                   "resume",
@@ -1759,8 +1759,8 @@
             "id": 625434693,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T00:48:46Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-30T09:04:03Z",
+            "open_issues": 62,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
             "stars": 1248,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:59:11.429Z",
+    "last_updated": "2026-10-31T02:44:37.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
