@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,924 | 🐛 1,326 | 🌐 Rust | 📅 2026-10-30 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 56,939 | 🐛 1,326 | 🌐 Rust | 📅 2026-10-30 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 56,924 | 🐛 1,326 | 🌐 Rust | 📅 2026-10-30
+* [GitHub](https://github.com/typst/typst) ⭐ 56,939 | 🐛 1,326 | 🌐 Rust | 📅 2026-10-30
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -78,7 +78,7 @@
 
 ### 编辑器
 
-* [typster](https://github.com/wflixu/typster) ⭐ 65 | 🐛 4 | 🌐 Rust | 📅 2026-03-10: Tauri 编写的 typst 阅读和编辑器,typst reader and editor
+* [typster](https://github.com/wflixu/typster) ⭐ 65 | 🐛 4 | 🌐 Rust | 📅 2026-11-01: Tauri 编写的 typst 阅读和编辑器,typst reader and editor
 * [Drafts](https://github.com/limads/drafts) ⭐ 9 | 🐛 1 | 🌐 Rust | 📅 2023-09-30: Typst 的编辑器(WIP),Drafts is an editor for technical writing that leverages the Typst typesetting system.
 
 ## 模板
@@ -141,7 +141,7 @@
 ### 简历
 
 * [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 980 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
-* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 848 | 🐛 2 | 🌐 Typst | 📅 2026-10-31 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
+* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 849 | 🐛 2 | 🌐 Typst | 📅 2026-10-31 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 729 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 193 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 152 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,863 | 🐛 75 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,862 | 🐛 75 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 105 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -187,7 +187,7 @@
 ### 数学
 
 * [typst-theorems](https://github.com/sahasatvik/typst-theorems) ⭐ 292 | 🐛 12 | 🌐 Typst | 📅 2026-10-21: 一个辅助编号的库,A library for creating numbered theorem environments
-* [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) ⭐ 151 | 🐛 3 | 🌐 Typst | 📅 2026-10-26: `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
+* [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) ⭐ 152 | 🐛 3 | 🌐 Typst | 📅 2026-10-26: `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 * [typst-undergradmath-zh](https://github.com/AlexanderMisel/typst-undergradmath-zh) ⭐ 9 | 🐛 0 | 🌐 Typst | 📅 2023-12-02 : Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath
 * [Formal-Methods-Typst](https://github.com/txtxj/Formal-Methods-Typst) ⭐ 5 | 🐛 0 | 📅 2023-04-21: 用于书写形式化中数理逻辑证明题
 * [commutative-diagrams](https://gitlab.com/giacomogallina/typst-cd):交换图/交换图表库， A library for creating commutative diagrams
@@ -206,7 +206,7 @@
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,248 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-30: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,249 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-30: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 365 | 🐛 11 | 🌐 Rust | 📅 2026-10-20: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 39 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
