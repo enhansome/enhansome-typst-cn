@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T02:02:23Z",
-            "open_issues": 1327,
+            "open_issues": 1330,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56956,
+            "stars": 56969,
             "topics": [
               "compiler",
               "markup",
@@ -237,7 +237,7 @@
                 "language": "Typst",
                 "license": "MIT-0",
                 "last_commit": "2026-03-20T11:03:54Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
                 "stars": 431,
@@ -1520,7 +1520,7 @@
                 "open_issues": 12,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
-                "stars": 292,
+                "stars": 293,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T04:03:15.613Z",
+    "last_updated": "2026-11-04T03:20:10.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
