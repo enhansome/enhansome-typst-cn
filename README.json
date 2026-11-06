@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T02:02:23Z",
-            "open_issues": 1331,
+            "last_commit": "2026-11-05T10:46:46Z",
+            "open_issues": 1334,
             "owner": "typst",
             "repo": "typst",
-            "stars": 56997,
+            "stars": 57008,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 980,
+                "stars": 983,
                 "topics": [
                   "resume",
                   "typst",
@@ -927,7 +927,7 @@
                 "open_issues": 5,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 848,
+                "stars": 847,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1337,7 +1337,7 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-27T11:52:45Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "cetz-package",
                 "repo": "cetz",
                 "stars": 1866,
@@ -1638,7 +1638,7 @@
                 "open_issues": 9,
                 "owner": "fenjalien",
                 "repo": "cirCeTZ",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "typst"
                 ]
@@ -1786,8 +1786,8 @@
             "id": 622595297,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T06:17:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-05T13:34:42Z",
+            "open_issues": 9,
             "owner": "messense",
             "repo": "typst-py",
             "stars": 365,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:45:10.425Z",
+    "last_updated": "2026-11-06T03:40:40.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
