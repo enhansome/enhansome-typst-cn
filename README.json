@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T10:46:46Z",
-            "open_issues": 1334,
+            "last_commit": "2026-11-06T10:38:42Z",
+            "open_issues": 1339,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57008,
+            "stars": 57020,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 432,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 983,
+                "stars": 982,
                 "topics": [
                   "resume",
                   "typst",
@@ -980,7 +980,7 @@
                 "open_issues": 0,
                 "owner": "GeorgeHoneywood",
                 "repo": "alta-typst",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "typst"
                 ]
@@ -1170,7 +1170,7 @@
                 "open_issues": 2,
                 "owner": "pncnmnp",
                 "repo": "typst-poster",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "poster-template",
                   "typst"
@@ -1517,7 +1517,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-10-21T16:00:25Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
                 "stars": 293,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:40:40.068Z",
+    "last_updated": "2026-11-07T03:14:10.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
