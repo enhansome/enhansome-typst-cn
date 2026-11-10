@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T10:38:42Z",
-            "open_issues": 1341,
+            "open_issues": 1344,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57062,
+            "stars": 57083,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "resume",
                   "typst",
@@ -923,8 +923,8 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T03:25:39Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-09T03:23:47Z",
+                "open_issues": 6,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
                 "stars": 847,
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1611,7 +1611,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-09-12T13:48:37Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
                 "stars": 620,
@@ -1759,7 +1759,7 @@
             "id": 625434693,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T02:59:26Z",
+            "last_commit": "2026-11-09T11:22:08Z",
             "open_issues": 63,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T02:59:38.546Z",
+    "last_updated": "2026-11-10T04:47:55.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
