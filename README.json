@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T10:38:42Z",
-            "open_issues": 1346,
+            "open_issues": 1349,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57119,
+            "stars": 57143,
             "topics": [
               "compiler",
               "markup",
@@ -293,7 +293,7 @@
                 "open_issues": 2,
                 "owner": "pku-typst",
                 "repo": "pkuthss-typst",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "thesis-template",
                   "typst",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 983,
+                "stars": 985,
                 "topics": [
                   "resume",
                   "typst",
@@ -1045,7 +1045,7 @@
                 "open_issues": 0,
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "nix",
                   "resume",
@@ -1337,10 +1337,10 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-27T11:52:45Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1867,
+                "stars": 1868,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1520,7 +1520,7 @@
                 "open_issues": 13,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
-                "stars": 294,
+                "stars": 295,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1763,7 +1763,7 @@
             "open_issues": 63,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1257,
+            "stars": 1259,
             "topics": [
               "browser",
               "nodejs",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T03:04:48.857Z",
+    "last_updated": "2026-11-12T04:19:59.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
