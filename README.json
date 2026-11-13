@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T10:38:42Z",
-            "open_issues": 1349,
+            "open_issues": 1353,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57143,
+            "stars": 57179,
             "topics": [
               "compiler",
               "markup",
@@ -927,7 +927,7 @@
                 "open_issues": 4,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 847,
+                "stars": 849,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1045,7 +1045,7 @@
                 "open_issues": 0,
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "nix",
                   "resume",
@@ -1520,7 +1520,7 @@
                 "open_issues": 13,
                 "owner": "sahasatvik",
                 "repo": "typst-theorems",
-                "stars": 295,
+                "stars": 296,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1689,7 +1689,7 @@
                 "open_issues": 1,
                 "owner": "ludwig-austermann",
                 "repo": "typst-timetable",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1790,7 +1790,7 @@
             "open_issues": 9,
             "owner": "messense",
             "repo": "typst-py",
-            "stars": 366,
+            "stars": 367,
             "topics": [
               "typst"
             ]
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:19:59.693Z",
+    "last_updated": "2026-11-13T03:37:12.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
