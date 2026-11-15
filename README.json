@@ -19,7 +19,7 @@
             "open_issues": 1360,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57182,
+            "stars": 57192,
             "topics": [
               "compiler",
               "markup",
@@ -268,7 +268,7 @@
                 "open_issues": 7,
                 "owner": "werifu",
                 "repo": "HUST-typst-template",
-                "stars": 243,
+                "stars": 242,
                 "topics": [
                   "hust",
                   "typst",
@@ -1045,7 +1045,7 @@
                 "open_issues": 0,
                 "owner": "Harkunwar",
                 "repo": "attractive-typst-resume",
-                "stars": 114,
+                "stars": 115,
                 "topics": [
                   "nix",
                   "resume",
@@ -1340,7 +1340,7 @@
                 "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1869,
+                "stars": 1870,
                 "topics": [
                   "cetz",
                   "typst",
@@ -2047,7 +2047,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 531,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:36:58.395Z",
+    "last_updated": "2026-11-15T03:07:27.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",

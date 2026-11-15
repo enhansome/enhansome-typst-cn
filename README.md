@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,182 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-06 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,192 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-06 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 57,182 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-06
+* [GitHub](https://github.com/typst/typst) ⭐ 57,192 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-06
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -89,7 +89,7 @@
 
 ### 中国大学论文
 
-* [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 243 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
+* [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 242 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
 * [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) ⭐ 167 | 🐛 2 | 🌐 Typst | 📅 2026-09-03: 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
 * [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) ⭐ 116 | 🐛 0 | 🌐 Typst | 📅 2025-12-05: 上海大学本科毕业论文 typst 模板 (开发ing)
 * [bupt-typst](https://github.com/QQKdeGit/bupt-typst) ⭐ 97 | 🐛 0 | 🌐 Typst | 📅 2024-01-13: 北京邮电大学本科学士学位论文模板
@@ -146,7 +146,7 @@
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 194 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 152 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
 * [typst-resume-template](https://github.com/bamboovir/typst-resume-template) ⭐ 143 | 🐛 0 | 🌐 Typst | 📅 2024-03-18: 一份简历模板，Aesthetic style inspired by the Awesome-CV project
-* [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 114 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
+* [attractive-typst-resume](https://github.com/Harkunwar/attractive-typst-resume) ⭐ 115 | 🐛 0 | 🌐 Nix | 📅 2023-05-01:一份有吸引力的简历模板， A modern looking, attractive CV/Resume template by Harkunwar Kochar
 * [vercanard](https://github.com/elegaanz/vercanard) ⭐ 110 | 🐛 0 | 🌐 Typst | 📅 2025-04-08: 一份彩色的简历模板,A colorful resume template for Typst.
 * [typst-cv-miku](https://github.com/ice-kylin/typst-cv-miku) ⭐ 98 | 🐛 0 | 📅 2023-04-09: 简历模板，有多种版本，包括中文 ,This is a simple, elegant, academic style CV template for typst. Support for English and Chinese (and more).
 * [uniquecv-typst](https://github.com/gaoachao/uniquecv-typst) ⭐ 75 | 🐛 3 | 🌐 Typst | 📅 2025-02-27: 一个使用Typst编写的简历模板，基于uniquecv。
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,869 | 🐛 77 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,870 | 🐛 77 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 106 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 531 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 532 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
