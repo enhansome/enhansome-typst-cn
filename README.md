@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,217 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-06 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,242 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-16 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 57,217 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-06
+* [GitHub](https://github.com/typst/typst) ⭐ 57,242 | 🐛 1,360 | 🌐 Rust | 📅 2026-11-16
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -85,7 +85,7 @@
 
 ### 官方
 
-* [typst/templates](https://github.com/typst/templates) ⭐ 433 | 🐛 24 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
+* [typst/templates](https://github.com/typst/templates) ⭐ 434 | 🐛 24 | 🌐 Typst | 📅 2026-03-20: 官方提供的模板，可以下载，也可以直接在 typst.app 在线服务中使用
 
 ### 中国大学论文
 
@@ -141,7 +141,7 @@
 ### 简历
 
 * [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 985 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
-* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 849 | 🐛 4 | 🌐 Typst | 📅 2026-11-10 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
+* [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 850 | 🐛 5 | 🌐 Typst | 📅 2026-11-16 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 730 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 194 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
 * [resume.typ](https://github.com/wusyong/resume.typ) ⭐ 152 | 🐛 0 | 🌐 Typst | 📅 2025-07-15: 简历模板,Simple and ergonimic template to generate resume and CV
@@ -206,7 +206,7 @@
 
 ## 编程
 
-* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,259 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-09: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
+* [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,260 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-09: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
 * [typst-py](https://github.com/messense/typst-py) ⭐ 367 | 🐛 9 | 🌐 Rust | 📅 2026-11-05: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 40 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
@@ -231,7 +231,7 @@
 
 ### Obsidian
 
-* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 532 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
+* [obsidian-typst](https://github.com/fenjalien/obsidian-typst) ⭐ 533 | 🐛 37 | 🌐 TypeScript | 📅 2024-11-03: obsidian 插件,Renders typst code blocks in Obsidian into images using Typst through the power of WASM!
 
 ### Vim
 
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

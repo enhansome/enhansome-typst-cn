@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T10:38:42Z",
-            "open_issues": 1355,
+            "last_commit": "2026-11-16T13:59:47Z",
+            "open_issues": 1360,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57217,
+            "stars": 57242,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -923,11 +923,11 @@
                 "id": 634051351,
                 "language": "Typst",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T15:57:55Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-16T03:25:13Z",
+                "open_issues": 5,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1763,7 +1763,7 @@
             "open_issues": 63,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "browser",
               "nodejs",
@@ -2014,7 +2014,7 @@
                 "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": [
                   "lsp",
                   "lsp-server",
@@ -2047,7 +2047,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 532,
+                "stars": 533,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:11:03.333Z",
+    "last_updated": "2026-11-17T05:15:07.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
