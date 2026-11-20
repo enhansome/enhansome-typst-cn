@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T15:47:18Z",
-            "open_issues": 1355,
+            "last_commit": "2026-11-19T10:20:21Z",
+            "open_issues": 1352,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57279,
+            "stars": 57301,
             "topics": [
               "compiler",
               "markup",
@@ -240,7 +240,7 @@
                 "open_issues": 24,
                 "owner": "typst",
                 "repo": "templates",
-                "stars": 434,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -927,7 +927,7 @@
                 "open_issues": 5,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 850,
+                "stars": 851,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1340,7 +1340,7 @@
                 "open_issues": 77,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "cetz",
                   "typst",
@@ -1611,7 +1611,7 @@
                 "language": "Typst",
                 "license": "MIT",
                 "last_commit": "2026-09-12T13:48:37Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
                 "stars": 620,
@@ -1763,7 +1763,7 @@
             "open_issues": 73,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1261,
+            "stars": 1262,
             "topics": [
               "browser",
               "nodejs",
@@ -2014,7 +2014,7 @@
                 "open_issues": 103,
                 "owner": "nvarner",
                 "repo": "typst-lsp",
-                "stars": 1148,
+                "stars": 1147,
                 "topics": [
                   "lsp",
                   "lsp-server",
@@ -2047,7 +2047,7 @@
                 "open_issues": 37,
                 "owner": "fenjalien",
                 "repo": "obsidian-typst",
-                "stars": 533,
+                "stars": 532,
                 "topics": [
                   "obsidian",
                   "obsidian-md",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:32:10.933Z",
+    "last_updated": "2026-11-20T04:20:02.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
