@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T10:20:21Z",
-            "open_issues": 1352,
+            "last_commit": "2026-11-20T12:38:44Z",
+            "open_issues": 1358,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57301,
+            "stars": 57323,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 985,
+                "stars": 986,
                 "topics": [
                   "resume",
                   "typst",
@@ -927,7 +927,7 @@
                 "open_issues": 5,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 851,
+                "stars": 852,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1003,7 +1003,7 @@
                 "open_issues": 0,
                 "owner": "wusyong",
                 "repo": "resume.typ",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1337,10 +1337,10 @@
                 "language": "Typst",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-27T11:52:45Z",
-                "open_issues": 77,
+                "open_issues": 79,
                 "owner": "cetz-package",
                 "repo": "cetz",
-                "stars": 1874,
+                "stars": 1875,
                 "topics": [
                   "cetz",
                   "typst",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T04:20:02.729Z",
+    "last_updated": "2026-11-21T04:17:40.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
