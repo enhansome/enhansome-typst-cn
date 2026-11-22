@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,323 | 🐛 1,358 | 🌐 Rust | 📅 2026-11-20 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,341 | 🐛 1,358 | 🌐 Rust | 📅 2026-11-20 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 57,323 | 🐛 1,358 | 🌐 Rust | 📅 2026-11-20
+* [GitHub](https://github.com/typst/typst) ⭐ 57,341 | 🐛 1,358 | 🌐 Rust | 📅 2026-11-20
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -166,7 +166,7 @@
 ### 格式 工具
 
 * [typst-tablex](https://github.com/PgBiel/typst-tablex) ⭐ 413 | 🐛 32 | 🌐 Typst | 📅 2024-10-25: 表格组件, More powerful and customizable tables in Typst.
-* [typst-index](https://github.com/RolfBremer/typst-index) ⭐ 85 | 🐛 10 | 🌐 Typst | 📅 2026-03-27: 创建索引的工具库,  Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.
+* [typst-index](https://github.com/RolfBremer/typst-index) ⭐ 85 | 🐛 11 | 🌐 Typst | 📅 2026-03-27: 创建索引的工具库,  Automatically create a handcrafted index in typst. This typst component allows the automatic creation of an Index page with entries that have been manually marked in the document by its authors. This, in times of advanced search functionality, seems somewhat outdated, but a handcrafted index like this allows the authors to point the reader to just the right location in the document.
 * [typst-diagbox](https://github.com/PgBiel/typst-diagbox) ⭐ 34 | 🐛 1 | 🌐 Typst | 📅 2024-09-26: 对角线分割符,A library for diagonal line dividers in Typst tables
 * [typst-ansi\_render](https://github.com/8LWXpg/typst-ansi_render) ⭐ 28 | 🐛 0 | 🌐 Typst | 📅 2026-07-18: ANSI 转义序列渲染,ANSI Escape Sequence Renderer
 
@@ -186,7 +186,7 @@
 
 ### 数学
 
-* [typst-theorems](https://github.com/sahasatvik/typst-theorems) ⭐ 297 | 🐛 13 | 🌐 Typst | 📅 2026-10-21: 一个辅助编号的库,A library for creating numbered theorem environments
+* [typst-theorems](https://github.com/sahasatvik/typst-theorems) ⭐ 298 | 🐛 13 | 🌐 Typst | 📅 2026-10-21: 一个辅助编号的库,A library for creating numbered theorem environments
 * [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) ⭐ 152 | 🐛 3 | 🌐 Typst | 📅 2026-10-26: `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 * [typst-undergradmath-zh](https://github.com/AlexanderMisel/typst-undergradmath-zh) ⭐ 9 | 🐛 0 | 🌐 Typst | 📅 2023-12-02 : Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath
 * [Formal-Methods-Typst](https://github.com/txtxj/Formal-Methods-Typst) ⭐ 5 | 🐛 0 | 📅 2023-04-21: 用于书写形式化中数理逻辑证明题
@@ -194,7 +194,7 @@
 
 ### 物理 化学 电学
 
-* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 620 | 🐛 10 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
+* [typst-physics](https://github.com/Leedehai/typst-physics) ⭐ 621 | 🐛 10 | 🌐 Typst | 📅 2026-09-12: 物理符号库，A library for usual physics notations, e.g. vectors, matrices, derivatives, Dirac brakets, tensors, isotopes
 * [circuitypst](https://github.com/fenjalien/circuitypst) ⭐ 167 | 🐛 9 | 🌐 Typst | 📅 2024-04-03: 移植 `circuitikz` 实现电路图形的支持 ,A port of circuitikz to Typst using typst-canvas
 
 ### 杂项
@@ -207,7 +207,7 @@
 ## 编程
 
 * [typst.ts](https://github.com/Myriad-Dreamin/typst.ts) ⭐ 1,262 | 🐛 73 | 🌐 TypeScript | 📅 2026-11-09: 在 javascript 环境中渲染 typ 文件 ,Typst.ts allows you to independently run the Typst compiler and exporter (renderer) in your browser.
-* [typst-py](https://github.com/messense/typst-py) ⭐ 367 | 🐛 9 | 🌐 Rust | 📅 2026-11-05: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
+* [typst-py](https://github.com/messense/typst-py) ⭐ 368 | 🐛 9 | 🌐 Rust | 📅 2026-11-05: Typst 的 Python 绑定, Python binding to typst, a new markup-based typesetting system that is powerful and easy to learn.
 * [leetcode.typ](https://github.com/lucifer1004/leetcode.typ) ⭐ 40 | 🐛 1 | 🌐 Typst | 📅 2026-01-13: 在 Typst 中刷 Leetcode 题目
 * [inktyp](https://github.com/herlev/inktyp) ⭐ 27 | 🐛 1 | 🌐 Rust | 📅 2024-05-19: Inkscape 插件，用于在 inkscape 中插入 typst 公式, Insert and edit typst equations in inkscape.
 * [typst-egui](https://github.com/mattfbacon/typst-egui) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2023-04-04: 在 egui 中显示 Typst 文档 ,Very restricted proof-of-concept for showing Typst documents inside egui.
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
