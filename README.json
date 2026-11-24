@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T12:38:44Z",
-            "open_issues": 1360,
+            "open_issues": 1362,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57368,
+            "stars": 57387,
             "topics": [
               "compiler",
               "markup",
@@ -902,7 +902,7 @@
                 "open_issues": 3,
                 "owner": "OrangeX4",
                 "repo": "Chinese-Resume-in-Typst",
-                "stars": 988,
+                "stars": 989,
                 "topics": [
                   "resume",
                   "typst",
@@ -1201,7 +1201,7 @@
                 "open_issues": 97,
                 "owner": "polylux-typ",
                 "repo": "polylux",
-                "stars": 1616,
+                "stars": 1617,
                 "topics": [
                   "presentation",
                   "presentation-slides",
@@ -1243,7 +1243,7 @@
                 "open_issues": 32,
                 "owner": "PgBiel",
                 "repo": "typst-tablex",
-                "stars": 413,
+                "stars": 414,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:39.397Z"
@@ -1614,7 +1614,7 @@
                 "open_issues": 10,
                 "owner": "Leedehai",
                 "repo": "typst-physics",
-                "stars": 621,
+                "stars": 622,
                 "topics": [
                   "typst",
                   "typst-package"
@@ -1763,7 +1763,7 @@
             "open_issues": 73,
             "owner": "Myriad-Dreamin",
             "repo": "typst.ts",
-            "stars": 1262,
+            "stars": 1263,
             "topics": [
               "browser",
               "nodejs",
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T04:01:28.286Z",
+    "last_updated": "2026-11-24T07:06:43.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
