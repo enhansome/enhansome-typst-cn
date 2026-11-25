@@ -15,11 +15,11 @@
             "id": 210702427,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T12:38:44Z",
-            "open_issues": 1362,
+            "last_commit": "2026-11-24T16:51:16Z",
+            "open_issues": 1359,
             "owner": "typst",
             "repo": "typst",
-            "stars": 57387,
+            "stars": 57411,
             "topics": [
               "compiler",
               "markup",
@@ -927,7 +927,7 @@
                 "open_issues": 5,
                 "owner": "yunanwg",
                 "repo": "brilliant-CV",
-                "stars": 852,
+                "stars": 853,
                 "topics": [
                   "cv",
                   "pdf",
@@ -1787,7 +1787,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T13:34:42Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "messense",
             "repo": "typst-py",
             "stars": 368,
@@ -2177,7 +2177,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T07:06:43.128Z",
+    "last_updated": "2026-11-25T05:41:45.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Typst 列表中文版",
