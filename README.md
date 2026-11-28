@@ -1,6 +1,6 @@
 # Awesome Typst 中文版 with stars
 
-列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,451 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-26 相关的资源,扩展，应用等。
+列表收集了 [Typst](https://github.com/typst/typst) ⭐ 57,482 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-27 相关的资源,扩展，应用等。
 
 本列表由 [Typst 中文社区](https://typst.cn) 维护,欢迎提交 PR 一起维护。微信群:
 
@@ -46,7 +46,7 @@
 
 ## 官方项目链接
 
-* [GitHub](https://github.com/typst/typst) ⭐ 57,451 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-26
+* [GitHub](https://github.com/typst/typst) ⭐ 57,482 | 🐛 1,355 | 🌐 Rust | 📅 2026-11-27
 * [typst.app](https://typst.app): Typst 官网和  Typst 在线 App.
 * [Typst 文档](https://typst.app/docs)
 * [博客](https://typst.app/blog/)
@@ -90,7 +90,7 @@
 ### 中国大学论文
 
 * [HUST-typst-template](https://github.com/werifu/HUST-typst-template) ⭐ 242 | 🐛 7 | 🌐 Typst | 📅 2025-06-16: 用于华科毕业设计（本科）的 typst 模板。
-* [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) ⭐ 167 | 🐛 2 | 🌐 Typst | 📅 2026-09-03: 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
+* [pkuthss-typst](https://github.com/lucifer1004/pkuthss-typst) ⭐ 168 | 🐛 2 | 🌐 Typst | 📅 2026-09-03: 北京大学学位论文模板,Typst template for dissertations in Peking University (PKU).
 * [SHU-Bachelor-Thesis-Typst](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst) ⭐ 116 | 🐛 0 | 🌐 Typst | 📅 2025-12-05: 上海大学本科毕业论文 typst 模板 (开发ing)
 * [bupt-typst](https://github.com/QQKdeGit/bupt-typst) ⭐ 97 | 🐛 0 | 🌐 Typst | 📅 2024-01-13: 北京邮电大学本科学士学位论文模板
 * [sysu-thesis-typst](https://github.com/howardlau1999/sysu-thesis-typst) ⚠️ Archived: 中山大学学位论文 Typst 模板
@@ -140,7 +140,7 @@
 
 ### 简历
 
-* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 991 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
+* [Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) ⭐ 992 | 🐛 3 | 🌐 Typst | 📅 2025-03-18: 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 * [awesomeCV-Typst](https://github.com/mintyfrankie/awesomeCV-Typst) ⭐ 853 | 🐛 5 | 🌐 Typst | 📅 2026-11-23 - 一份参考 `Awesome-CV` 的简历模版，支持多语言简历管理, An opinionated, relived CV template inspired by the LaTeX `Awesome-CV` project, but with multilingual support and more
 * [typst-cv-template](https://github.com/skyzh/typst-cv-template) ⭐ 730 | 🐛 2 | 🌐 Typst | 📅 2025-04-06: 好像是模板作者自己的简历,Chi CV Template (For Typst)
 * [alta-typst](https://github.com/GeorgeHoneywood/alta-typst) ⭐ 194 | 🐛 0 | 🌐 HTML | 📅 2026-08-02: 一份简历模板，参考 `AltaCV`，A simple Typst CV template, inspired by AltaCV by LianTze Lim
@@ -172,7 +172,7 @@
 
 ### 图形 色彩
 
-* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,879 | 🐛 79 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
+* [typst-canvas](https://github.com/johannes-wolf/typst-canvas) ⭐ 1,883 | 🐛 79 | 🌐 Typst | 📅 2026-10-27: Typst Canvas 库
 * [typst-boxes](https://github.com/lkoehl/typst-boxes) ⭐ 107 | 🐛 1 | 🌐 Typst | 📅 2025-04-18: 可以绘制彩色的文本框,还有一种可以旋转的便利贴样式，A library to draw colorful boxes.
 * [typst-plot](https://github.com/johannes-wolf/typst-plot) ⚠️ Archived: 绘图库,A library for plotting line charts
 * [typst-palette](https://github.com/kaarmu/typst-palette) ⭐ 61 | 🐛 2 | 🌐 Typst | 📅 2025-04-27: 调色板工具包,A package of color palettes for Typst
@@ -186,7 +186,7 @@
 
 ### 数学
 
-* [typst-theorems](https://github.com/sahasatvik/typst-theorems) ⭐ 298 | 🐛 14 | 🌐 Typst | 📅 2026-10-21: 一个辅助编号的库,A library for creating numbered theorem environments
+* [typst-theorems](https://github.com/sahasatvik/typst-theorems) ⭐ 298 | 🐛 15 | 🌐 Typst | 📅 2026-10-21: 一个辅助编号的库,A library for creating numbered theorem environments
 * [typst-undergradmath](https://github.com/johanvx/typst-undergradmath) ⭐ 152 | 🐛 3 | 🌐 Typst | 📅 2026-10-26: `undergradmath` Typst 移植,A Typst port of [undergradmath](https://gitlab.com/jim.hefferon/undergradmath)
 * [typst-undergradmath-zh](https://github.com/AlexanderMisel/typst-undergradmath-zh) ⭐ 9 | 🐛 0 | 🌐 Typst | 📅 2023-12-02 : Typst大学数学，一个大学数学常用符号在Typst中如何输入的总结,A Typst port of undergradmath
 * [Formal-Methods-Typst](https://github.com/txtxj/Formal-Methods-Typst) ⭐ 5 | 🐛 0 | 📅 2023-04-21: 用于书写形式化中数理逻辑证明题
@@ -249,4 +249,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
